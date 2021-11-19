@@ -1,0 +1,175 @@
+body{
+      width:860px;
+      margin: 0px auto;
+      padding: 0px;
+      font-family: "arial";
+      background-color:#c0c0c0
+      }
+
+div.center{
+           text-align:center
+           }
+           
+div.left{
+         text-align:left
+         }
+         
+div.right{
+          text-align:right
+          }
+
+div.top{
+        width:860px;
+        margin-top:0px;
+        margin-bottom:0px;
+        padding-bottom:10px;
+        background-color:#ffffff;
+        border-right:solid 3px #000000
+        }
+        
+div.topleft{
+            text-align:left;
+            margin-bottom:10px;
+            }
+
+div.main{
+         width:860px;
+         background-color:#ffffff;
+         text-align:left;
+         font-size:15px;
+         margin-left:auto;
+         margin-right:auto;
+         margin-top:2px;
+         padding-top:10px;
+         border-right:solid 3px #000000;
+         border-bottom:solid 3px #000000;;
+         }
+         
+div.cont{
+         width:700px;
+         padding-left:40px;
+         padding-right:40px
+         }
+
+div.map{
+        width:700px;
+        margin-top:20px;
+        font-size:12px;
+        padding:2px 0px 2px 0px;
+        background-color:#f6f6f6;
+        color:#ff0000;
+        margin:0px auto
+        }
+        
+div.map a{
+          text-decoration:none;
+          color:#000000;
+          }
+
+div.map a:hover{
+                color:#007090
+                }
+                     
+          
+div.bottom{
+           margin-top:20px;
+           width:750px; 
+           border-top:solid 1px #1d6eaf; 
+           text-align:right;font-size:0.9em; 
+           font-style:normal; 
+           font-weight:normal; 
+           background-color:white;
+           padding-top:10px;
+           margin:15px
+           }
+
+
+span.menu{
+          padding-top:6px;
+          padding-left:10px;
+          padding-right:10px;
+          padding-bottom:5px;
+          border:none;
+          font-size:12px;
+          color:#000000
+          }
+          
+span.menu a{
+             font-size:16px;
+             text-decoration:none;
+             color:#000000;
+             padding-top:6px;
+             padding-left:10px;
+             padding-right:10px;
+             padding-bottom:5px;
+             border-left:solid 1px #dcdcdc;
+             }
+             
+
+span.menu a:hover{
+                  BACKGROUND: url(BaseFig/menu_bg0.jpg);
+                  color:#000000;
+                  border:solid 1px #dcdcdc;
+                  }
+
+span.menu1{
+           color:#ff4500;BACKGROUND:
+           url(BaseFig/menu_bg1.jpg);
+           padding-top:6px;
+           padding-left:10px;
+           padding-right:10px;
+           border:none;
+           font-size:16px;
+           padding-bottom:5px;
+           border-left:solid 1px #dcdcdc
+           }
+           
+
+div.research{
+            width:210px;
+            height:200px;
+            float:left;
+            border:solid 1px #dcdcdc;
+            padding-left:5px;
+            margin-right:10px;
+            margin-top:10px
+            }
+
+            
+div.research h5{
+               background:url(BaseFig/research_bar.jpg);
+               color:#ffffff;
+               text-align:center;
+               padding:19px 0px 8px 0px
+               }           
+                                            
+
+div.research_edge{
+                  width:218px;
+                  height:200px;
+                  margin-top:10px;
+                  border:solid 1px #dcdcdc;
+                  padding-left:5px;
+                  }
+
+            
+div.research_edge h5{
+                     background:url(BaseFig/research_bar.jpg);
+                     color:#ffffff;
+                     text-align:center;
+                     padding:19px 0px 8px 0px
+                     }
+
+-
+span.publ a{background:url(BaseFig/publ0.jpg);background-repeat:no-repeat;color:#000000;padding-left:30px;padding-right:40px;padding-top:10px;padding-bottom:10px;text-decoration:none}
+span.publ a:hover{background:url(BaseFig/publ1.jpg);background-repeat:no-repeat;color:#007090;padding-left:30px;padding-right:40px;padding-top:10px;padding-bottom:10px}
+
+table.publ{border:none;font-size:13px;margin:auto;margin-bottom:15px}
+table.publ td,th{border:none;border-bottom:solid 1px white;border-right:solid 1px white;}
+table.publ th{width:700px;text-align:left;font-weight:normal;background-color:#007090;color:#ffffff;padding-top:5px;padding-bottom:5px;padding-left:10px}
+table.publ td{width:700px;background-color:#ffffff;border-bottom:solid 1px black;text-align:left;padding-left:10px;height:25px}
+
+
+
+
+

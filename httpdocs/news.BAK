@@ -1,0 +1,1698 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+	"http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+        <meta http-equiv="Content-Style-Type" content="text/css">
+        <meta http-equiv="Content-Script-Type" content="text/javascript">
+	<meta name="description" content="光物性研究室（木村研）およびその研究活動の紹介。当研究室では、放射光を用いて物質内の電子構造を直接観測し、電子が担う様々な固体の物理現象を研究しています">
+	<meta name="keywords" content="放射光,光電子分光,光物性,木村研,木村昭夫,広島大学,広島,ナノ,電子状態,強相関,超伝導,高温超伝導,準粒子,相転移,f電子,近藤効果,軌道秩序,重い電子,１次元,朝永ラッティンジャー流体,磁性,薄膜,２次元,角度分解,ARPES,スピン分解,SRPES,スピン偏極,逆光電子分光,IPES,MCD,STM,AFM,SMOKE,PEEM,高分解能,固体物理,固体物性,遷移金属,MBE,レーザーアブレーション,ビームライン">
+	<title>光物性研究室（木村研）【広島大学】</title>
+        <link rel="stylesheet" href="design.css" type="text/css" media="all">
+        <link rel="stylesheet" href="all.css" type="text/css">
+        
+</head>
+
+</style>
+
+<script Language=javascript>
+<!--
+function show(inputData) {
+var objID=document.getElementById( "layer_" + inputData );
+var buttonID=document.getElementById( "category_" + inputData );
+if(objID.className=='close') {
+objID.style.display='block';
+objID.className='open';
+}else{
+objID.style.display='none';
+objID.className='close';
+}
+}
+//-->
+</script>
+
+<body>
+<body>
+  <div class="dis">
+    <div class="logo">
+<a href="http://home.hiroshima-u.ac.jp/srphys/index.html"><img src="fig/title.jpg" alt="光物性研究室" border="0"></a>
+    </div><br>
+
+
+
+<span class="menu">
+<a href="index.html" >Home</a>
+<a href="news.html">News</a>
+<a href="intro.html">Research</a>
+<a href="study.html">Publications</a>
+<a href="message.html">Messages</a>
+<a href="member.html">Member</a>
+<a href="link.html">Links</a>
+<a href="en/index_en.html">English</a>
+<a href="hbstyle.html">HB-style</a>
+</span><br><br>
+    
+    <div class="navi">
+    <a href="index.html">ホーム</a>　>　ニュース
+    </div>
+    
+    <div class="topborder"></div><br>
+    
+
+
+<div class="newsmain">
+<div style="width:580px;float:left;border-right:solid 1px #cccccc;padding-right:10px">
+
+<!--  2019   -->
+<a href="javascript:void(0)" id="category_2019" onclick="show('2019');" class="newsbar">2019 年度のニュース</a>
+<div id="layer_2019" style="display: block;position:relative;border:solid 1px #c0c0c0;padding-left:20px;" class="open">
+
+<ul class="news">
+<div align="center"><img src="news/2019/member2019.jpg" width="95%"><br>
+2019.5.8 at Hiroshima University<br><br>
+
+<li class="s1">2020 年 3 月 16 日 - 19 日</th></tr>
+<div class="sp1"><a href ="https://www.jps.or.jp/activities/meetings/2020annual/corona/index.php">日本物理学会年次大会</a>に石坂仁志(D1)、尾田拓之慎(M1)、河野嵩(M1)が参加し、最新の研究成果を発表する予定でした。
+お体にお気をつけてお過ごしください。
+<br>
+</div>
+
+<li class="n1">2020 年 2 月 18 日</th></tr>
+<div class="sp1"><a href ="news/2020/20200218PoDT.html">博士論文公聴会</a>が行われました。
+<br>
+</div>
+
+<li class="s1">2020 年 2 月 17 日</th></tr>
+<div class="sp1"><a href ="news/2020/20200217PoGT.html">卒業論文発表会</a>が行われました。
+<br>
+</div>
+
+<li class="n1">2020 年 2 月 13 日 - 14 日</th></tr>
+<div class="sp1"><a href ="news/2020/20200213PoMT.html">修士論文発表会</a>が行われました。
+<br>
+</div>
+
+<li class="s1">2019 年 11 月 28 日</th></tr>
+<div class="sp1">
+当研究室D3のWang Xiaoxiaoらを中心とした研究成果"Disentangling orbital and spin textures of surface-derived states in non-symmorphic semimetal HfSiS"がPhysical Review Bに掲載されました。
+<br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.205140">X. Wang <i>et al.</i>, Phys. Rev. B <b>100</b>, 205140 (2019).</a>
+<br>
+</div>
+
+<li class="n1">2019 年 11 月 7 日 - 10 日</th></tr>
+<div class="sp1">釜山大学で開催された<a href ="news/2019/20191107nikkan.html">The 2019 Korea - Japan Students Workshop</a>に小澤秀一(M1)、河野嵩(M1)が参加しました。また、河野嵩がBest Presentation Awardを受賞しました。
+<br>
+</div>
+
+<li class="s1">2019 年 11 月 1 日</th></tr>
+<div class="sp1">
+当研究室D2の吉川智己らを中心とした「トポロジカル絶縁体における二方向光起電力効果」についての研究成果がPhysical Review Bに掲載されました。
+<br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.165311">T. Yoshikawa <i>et al.</i>, Phys. Rev. B <b>100</b>, 165311 (2019).</a>
+<br>
+</div>
+
+<li class="n1">2019 年 10 月 14 日</th></tr>
+<div class="sp1">
+当研究室M1の河野嵩らを中心とした「共鳴光電子分光によるCo<sub>2</sub>MnGeの部分状態密度の観測」についての研究成果がPhysical Review Bに掲載されました。
+<br><a href="https://link.aps.org/doi/10.1103/PhysRevB.100.165120">T. Kono <i>et al.</i>, Phys. Rev. B <b>100</b>, 165120 (2019).</a>
+<br>
+</div>
+
+<li class="s1">2019 年 10 月 6 日 - 11 日</th></tr>
+<div class="sp1">広島市内で開催された<a href="https://ntti2019.jp/">The 19th International Conference on Solid Films and Surfaces</a>にXiaoxiao Wang(D3)、吉川智己(D2)、河野嵩(M1)が参加し、最新の研究成果を発表しました。また、この学会で河野嵩(M1)がBest Student Poster Awardを受賞しました！
+<br>
+</div>
+
+<li class="n1">2019 年 9 月 18 日 - 21 日</th></tr>
+<div class="sp1">応用物地学会秋季学術講演会に木村昭夫教授、吉川智己(D2)、河野嵩(M1)が参加し、最新の研究成果を発表しました。
+<br>
+</div>
+
+<li class="s1">2019 年 9 月 10 日 - 13 日</th></tr>
+<div class="sp1">日本物理学会秋季大会に木村昭夫教授、Munisa Nurmamat助教、Xiaoxiao Wang(D3)、吉川智己(D2)、小澤秀介(M1)、尾田拓之慎(M1)、河野嵩(M1)が参加し、最新の研究成果を発表しました。
+<br>
+</div>
+
+<li class="n1">2019 年 9 月 5 日 - 6 日</th></tr>
+<div class="sp1">広島大学で開催された<a href="https://sites.google.com/view/hisor-arpes2019/">最先端光電子分光で拓く量子物質科学研究に関するワークショップ</a>にXiaoxiao Wang(D3)、吉川智己(D2)、石坂仁志(D1)、小澤秀介(M1)、尾田拓之慎が参加し、最新の研究成果を発表しました。
+<br>
+</div>
+
+<li class="s1">2019 年 9 月 3 日 - 4 日</th></tr>
+<div class="sp1">広島大学で開催された<a href="https://sites.google.com/view/yrsr2019">放射光科学若手国際ワークショップ</a>にXiaoxiao Wang(D3)、吉川智己(D2)、石坂仁志(D1)、小澤秀介(M1)、尾田拓之慎が参加し、最新の研究成果を発表しました。
+<br>
+</div>
+
+
+<li class="n1">2019 年 8 月 27 日 - 28 日</th></tr>
+<div class="sp1">ゼミ旅行で山口県に行きました。
+<br>
+</div>
+
+<li class="s1">2019 年 7 月 15 日 - 19 日</th></tr>
+<div class="sp1">広島市内で開催された<a href="https://ntti2019.jp/">NTTI 2019 and BEC 2019</a>にXiaoxiao Wang(D3)、吉川智己(D2)が参加し、最新の研究成果を発表しました。
+<br>
+</div>
+
+<li class="n1">2019 年 4 月 1 日</th></tr>
+<div class="sp1">放射光物性・物理研究室の皆さんと合同でお花見・親睦会を行いました。
+<br>
+</div>
+
+</ul>
+
+<a href="javascript:void(0)" id="category_2019" onclick="show('2019');" class="newsclose">close</a>
+</div>
+<br>
+<div style="height:20px">
+</div>
+<!--  2019   -->
+
+
+
+<!--  2018   -->
+
+<a href="javascript:void(0)" id="category_2018" onclick="show('2018');" class="newsbar">2018 年度のニュース</a>
+<div id="layer_2018" style="display: block;position:relative;border:solid 1px #c0c0c0;padding-left:20px;" class="open">
+
+
+<ul class="news">
+<div align="center"><img src="news/2018/Member2018.JPG" width="95%"><br>
+2018.4.23 at HiSOR<br><br>
+
+
+<li class="s1">2019 年 3 月 23 日</th></tr>
+<div class="sp1"><a href ="news/2019/20190323sotsugyoushiki.html">卒業式</a>が行われました。
+<br>
+</div>
+
+<li class="n1">2018 年 3 月 18 日 - 20 日</th></tr>
+<div class="sp1"><a href = "https://www.ecmp.jp/ecmp2019/">The Second International Workshop Emergent Condensed-Matter Physics ECMP2019</a>に吉川智己(D1)、宮下剛夫(D1)、小澤秀介(B4)、尾田拓之慎(B4)が参加し発表を行いました。また、この学会で吉川智己(D1)、宮下剛夫(D1)がStudent Poster Awardを受賞しました！
+<br>
+</div>
+
+<li class="s1">2018 年 3 月 14 日 - 17 日</th></tr>
+<div class="sp1">日本物理学会に岩澤英明特任准教授、石坂仁志(M2)、松田旭央(M2)、小澤秀介(B4)が参加し、最新の研究成果を発表しました。
+<br>
+</div>
+
+<li class="n1">2018 年 3 月 7 日 - 8 日</th></tr>
+<div class="sp1"><a href = "http://www.hsrc.hiroshima-u.ac.jp/symposium/2019/23rd_symposium.htm">The 23rd Hiroshima International Symposium on Synchrotron Radiation</a>に角田一樹(D3)、市川典万(M2)、小澤秀介(B4)、尾田拓之慎(B4)が参加し発表を行いました。また、この学会で小澤秀介(B4)がBest Student Poster Awardを受賞しました！
+<br>
+</div>
+
+<li class="s1">2018 年 3 月 4 日 - 8 日</th></tr>
+<div class="sp1"><a href = "https://www.aps.org/meetings/march/index.cfm">APS March Meeting 2019</a>に岩澤英明特任准教授、吉川智己(D1)、宮下剛夫(D1)が参加し発表を行いました。
+<br>
+</div>
+
+<li class="n1">2018 年 2 月 15 日</th></tr>
+<div class="sp1"><a href ="news/2019/20190215PoDT.html">博士論文公聴会</a>が行われました。
+<br>
+</div>
+
+<li class="s1">2018 年 2 月 14 日</th></tr>
+<div class="sp1"><a href ="news/2019/20190214PoMT.html">修士論文発表会</a>が行われました。
+<br>
+</div>
+
+<li class="n1">2019 年 2 月 12 日</th></tr>
+<div class="sp1"><a href ="news/2019/20190212PoGT.html">卒業論文発表会</a>が行われました。
+<br>
+</div>
+
+<li class="s1">2019 年 2 月 1 日</th></tr>
+<div class="sp1">当研究室の角田一樹(D3)らを中心とした、p型トポロジカル絶縁体の反転分布現象に関する研究成果がPhysical Review Bに掲載されました。本研究は広島大学を中心として東京大学物性研究所、ロシア・ノヴォシビルスク大学との国際共同研究による成果です。
+<br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.085302">K. Sumida et al., Phys. Rev. B 99, 085302 (2019).</a>
+<br>
+</div>
+
+<li class="n1">2018 年 11 月 16 日 - 18 日</th></tr>
+<div class="sp1">広島大学（東広島キャンパス）で開催された2018 Japan-Korea Student Workshopに吉川智己(D1)、宮下剛夫(D1)が参加し、最新の研究成果を発表しました。また岩澤英明（特任准教授）が招待講演を行いました。さらに、この学会で宮下剛夫(D1)がExcellent Presentation Awardを受賞しました！
+<br>
+</div>
+
+<li class="s1">2018 年 11 月 1 日</th></tr>
+<div class="sp1">本研究室の真木祥千子助教が<a href= "http://db.tagen.tohoku.ac.jp/php/forweb/outline.php?lang=ja&no=4070">ご栄転</a>されました。 <br>
+<br>
+</div>
+
+<li class="n1">2018 年 10 月 4 日 - 6 日</th></tr>
+<div class="sp1">広島大学（東広島キャンパス）で開催された<a href="http://www.hsrc.hiroshima-u.ac.jp/TASPEC/">International Workshop on Trends in Advanced Spectroscopy in Materials Science (TASPEC)</a>に岩澤英明(特任准教授)、Nurmamat Munisa(研究員)、吉川智己(D1)、宮下剛夫(D1)、市川典万(M2)が参加し、最新の研究成果を発表しました。
+<br>
+</div>
+
+<li class="s1">2018 年 10 月 2 日</th></tr>
+<div class="sp1">当研究室D3の角田一樹らを中心に「プロテクトされた表面と大きなバルクバンドギャップを併せもつトポロジカル絶縁体の発見」をしました。本研究は広島大学を中心としてイタリア、ドイツ、ロシア、スペインとの国際共同研究による成果でPhysical Review Materialsに掲載されました。<br>
+<a href = "https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.104201">K. Sumida <it>et al</it>., Phys. Rev. Mater. <strong>2</strong>, 104201 (2018).</a>
+<br>
+</div>
+
+<li class="n1">2018 年 9 月 27 日</th></tr>
+<div class="sp1">マールブルグ大学、レーゲンスブルグ大学（ドイツ）およびノヴォシビルスク大学（ロシア）との<a href ="https://www.nature.com/articles/s41586-018-0544-x">「トポロジカル表面ディラック電流の光制御」に関する国際共同研究の成果</a>がNatureに掲載されました！
+<br>
+</div>
+
+<li class="s1">2018 年 9 月 22 日 - 23 日</th></tr>
+<div class="sp1"><a href="https://home.hiroshima-u.ac.jp/srphys/news/2018/20180922hiratoki.html">日本学術振興会による事業「ひらめき☆ときめきサイエンス」が開催されました。</a>
+<br>
+</div>
+
+<li class="n1">2018 年 9 月 16 日 - 17 日</th></tr>
+<div class="sp1"><a href ="https://home.hiroshima-u.ac.jp/srphys/news/2018/20180916seminartrip.html">ゼミ旅行に行きました。</a>
+<br>
+</div>
+
+<li class="s1">2018 年 9 月 9 日 - 12 日</th></tr>
+<div class="sp1">同志社大学（京田辺キャンパス）で開催された日本物理学会2018年秋季大会に吉川智己(D1)、宮下剛夫(D1)が参加し、最新の研究成果を発表しました。また木村昭夫（教授）がシンポジウム講演を行いました。
+<br>
+</div>
+
+<li class="n1">2018 年 9 月 6 日</th></tr>
+<div class="sp1">当研究室のNurmamat Munisa研究員を中心とした<a href= "https://home.hiroshima-u.ac.jp/srphys/news/2018/20180906Munisa_logo.html">トポロジカル絶縁体の論文の図</a>が、2019年春のアメリカ物理学会講演会APS March Meeting 2019（2019年3月4-8日にボストンで開催）のロゴに採用されました！
+
+〔<a href = "https://www.facebook.com/apsphysics/photos/pb.55051907951.-2207520000.1536195525./10157138571747952/?type=3&theater">APS March Meeting 2019</a> ]
+<br>
+</div>
+
+<li class="s1">2018 年 6 月 29 日</th></tr>
+<div class="sp1">当研究室のNurmamat Munisa研究員を中心とした研究成果「黒リンにおける電子のたたき上げ現象を世界で初めて観測 ～次世代の超高速通信デバイスの素材として期待～」について広島大学からプレス発表されました。〔<a href = "https://www.hiroshima-u.ac.jp/news/45792">広島大学の広報</a>〕
+<br>
+</div>
+
+<li class="n1">2018 年 6 月 6 日</th></tr>
+<div class="sp1">当研究室D1の吉川智己による「光エージングによるトポロジカル絶縁体表面での光起電力の増大」についての研究論文がApplied Physics Lettersに掲載されました。<br>
+<a href="https://aip.scitation.org/doi/abs/10.1063/1.5008466">T. Yoshikawa <it>et al</it>, Appl. Phys. Lett. <strong>112</strong>, 192104 (2018).</a>
+<br>
+</div>
+
+<li class="s1">2018 年 6 月 1 日</th></tr>
+<div class="sp1"><a href = "http://home.hiroshima-u.ac.jp/srphys/personal/H_Iwasawa/iwasawa.html">岩澤英明先生</a>が当研究室の特任准教授として着任されました。
+<br>
+</div>
+
+<li class="n1">2018 年 5 月 18 日</th></tr>
+<div class="sp1"><a href ="news/2018/20180518seminar.html">マールブルク大学のUlrich Hoefer先生が光物性研究室を訪問され、セミナーを行って頂きました。</a>
+<br>
+</div>
+
+<li class="s1">2018 年 4 月 23 日</th></tr>
+<div class="sp1">本研究室の井野明洋特任准教授が<a href="http://133.94.8.188/kyoiku/default.htm">ご栄転</a>されました。 
+<br>
+</div>
+
+<li class="n1">2018 年 4 月 4 日</th></tr>
+<div class="sp1">光物性研究室と放射光物性・物理研究室合同でお花見・親睦会を行いました。 
+<br>
+</div>
+
+</ul>
+
+<a href="javascript:void(0)" id="category_2018" onclick="show('2018');" class="newsclose">close</a>
+</div>
+<br>
+<div style="height:20px">
+</div>
+<!--  2018   -->
+
+
+<!--  2017   -->
+
+<a href="javascript:void(0)" id="category_2017" onclick="show('2017');" class="newsbar">2017 年度のニュース</a>
+<div id="layer_2017" style="display: block;position:relative;border:solid 1px #c0c0c0;padding-left:20px;" class="open">
+
+
+<ul class="news">
+<div align="center"><img src="news/2017/member2017.jpg" width="95%"><br>
+2017.4.24 at HiSOR<br><br>
+
+
+<li class="s1">2018 年 3 月 23 日</th></tr>
+<div class="sp1"><a href ="news/2018/20180323sotsugyoushiki.html">卒業式</a>が行われました。
+<br>
+</div>
+
+<li class="n1">2018 年 3 月 22 日 - 25 日</th></tr>
+<div class="sp1">日本物理学会に角田一樹(D2)、市川典万(M1)、鹿子木将明(B4)が参加し、最新の研究成果を発表しました。またこの学会で、角田一樹(D2)が学生ポスター優秀賞を受賞しました！
+<br>
+</div>
+
+<li class="s1">2018 年 3 月 8 日 - 9 日</th></tr>
+<div class="sp1"><a href = "http://www.hsrc.hiroshima-u.ac.jp/symposium/2018/22nd_symposium.htm">The 22nd Hiroshima International Symposium on Synchrotron Radiation</a>に角田一樹(D2)、宮下剛夫(M2)、石坂仁志(M1)、市川典万(M1)、鹿子木将明(B4)が参加し発表を行いました。
+<br>
+</div>
+
+<li class="n1">2018 年 3 月 5 日 - 6 日</th></tr>
+<div class="sp1"><a href = "https://www.ecmp.jp/ecmp2018/">The 1st International Workshop on Emergent Condensed Matter Physics (ECMP2018)</a>に木村昭夫教授、角田一樹(D2)、鹿子木将明(B4)が参加し発表を行いました。またこの学会で角田がBest Student Poster Awardを受賞しました！。
+<br>
+</div>
+
+<li class="s1">2018 年 2 月 15 日</th></tr>
+<div class="sp1"><a href ="news/2018/20180215PoMT.html">修士論文発表会</a>が行われました。
+<br>
+</div>
+
+<li class="n1">2018 年 2 月 13 日</th></tr>
+<div class="sp1"><a href ="news/2018/20180213PoGT.html">卒業論文発表会</a>が行われました。
+<br>
+</div>
+
+<li class="s1">2017 年 12 月 19 日</th></tr>
+<div class="sp1">本研究室D2の角田一樹が平成29年度広島大学エクセレント・スチューデント・スカラシップ対象学生に選ばれ表彰されました！
+平成27年度に続き、2度目の受賞となります。[<a href = "news/2017/20171225_Sumida_award.html">受賞時の写真</a>]
+<br>
+</div>
+
+<li class="n1">2017 年 11 月 2 日 - 4 日</th></tr>
+<div class="sp1">2017 Japan-Korea Student Workshopに参加し発表を行いました。また、この学会で石坂仁志(M1)がExcellent Presentation Awardを受賞しました！〔<a href = "https://www.hiroshima-u.ac.jp/sci/news/42718">広島大学の広報</a>〕
+<br>
+</div>
+
+<li class="s1">2017 年 10 月 26 日</th></tr>
+<div class="sp1">当研究室の角田一樹（D2）を中心とした研究成果「トポロジカル絶縁体に付与した光情報の持続時間を飛躍的に長くすることに成功」について広島大学からプレス発表されました。〔<a href ="https://www.hiroshima-u.ac.jp/research/news/42328">広島大学の広報</a>〕
+<br>
+</div>
+
+<li class="n1">2017 年 10 月 26 日</th></tr>
+<div class="sp1">トポロジカル絶縁体の非平衡キャリアダイナミクスに関する研究がScientific Reportsに掲載されました！
+<a href="https://www.nature.com/articles/s41598-017-14308-w">K. Sumida <it>et al</it>., Sci. Rep. 7, 14080 (2017).</a>
+<br>
+</div>
+
+<li class="s1">2017 年 10 月 19 日</th></tr>
+<div class="sp1"><a href="news/2017/20171019_Kuroda_award.html">本研究室 OB の黒田健太氏（現・東大物性研・助教） <br>第12回日本物理学会若手奨励賞の受賞が決定。</a>
+<br>
+</div>
+
+<li class="n1">2017年 9 月 21 日 - 24 日</th></tr>
+<div class="sp1">日本物理学会に田北仁志(D2)、角田一樹(D2)、後藤一希(M2)、吉川智己(M2)、宮下剛夫(M2)、市川典万(M1)、檜垣聡太(M1)、松田旭央(M1)が参加し、最新の研究成果を発表しました。またこの学会で、角田一樹(D2)が領域5学生ポスター優秀賞を受賞しました！</a>
+<br>
+</div>
+
+<li class="s1">2017 年 9 月 15 日 - 16 日</th></tr>
+<div class="sp1"><a href="news/2017/20170915seminartrip.html">ゼミ旅行</a>に行きました。
+<br>
+</div>
+
+<li class="n1">2017 年 7 月 19 日</th></tr>
+<div class="sp1">日経産業新聞の朝刊に、記事「格子振動で高温超電導　広島大、仕組みの一端解明」が掲載されました。</a>
+<br>
+</div> 
+
+<li class="s1">2017 年 7 月 7 日</th></tr>
+<div class="sp1">中國新聞の朝刊に、記事「高温超電導「格子振動」が鍵　広島大で証拠観測　論争に一石」が掲載されました。</a>
+<br>
+</div>
+
+<li class="n1">2017 年 7 月 6 日</th></tr>
+<div class="sp1">当研究室の 井野明洋 特任准教授と、大阪府立大学大学の 安齋太陽 助教 （当研究室 OB）が、研究成果「高温超伝導の立役者、決定的証拠を観測」についてプレス・リリースを行いました
+〔<a href="https://www.hiroshima-u.ac.jp/news/40548">広島大学の広報</a>、<a href="http://www.hsrc.hiroshima-u.ac.jp/research/result/39.html">放射光科学研究センターの成果解説</a>〕。
+</div> 
+
+<li class="s1">2017 年 7 月 2 日 - 7 日</th></tr>
+<div class="sp1"><a href="http://www.hsrc.hiroshima-u.ac.jp/CORPES17/">The 17th  International workshop on strong correlations and angle-resolved photoemission spectroscopy (CORPES17)</a>に田北仁志(D2)、角田一樹(D2)、Umut Mansur(D1)、後藤一希(M2)、宮下剛夫(M2)、石坂仁志(M1)が参加し発表を行いました。</a>
+<br>
+</div>
+
+<li class="n1">2017 年 6 月 4 日</th></tr>
+<div class="sp1"><a href="news/2017/20170604Softball.html">春季ソフトボール大会で優勝しました！ </a>
+<br>
+</div> 
+
+<li class="s1">2017 年 4 月 24 日</th></tr>
+<div class="sp1">光物性研究室と放射光物性・物理研究室合同で新人歓迎会を行いました。</a>
+<br>
+</div>
+
+<li class="n1">2017 年 4 月 6 日</th></tr>
+<div class="sp1"><a href="news/2017/20170406hanami.html">光物性研究室と放射光物性・物理研究室合同でお花見・親睦会を行いました。 </a>
+<br>
+</div> 
+
+<li class="s1">2017 年 4 月 1 日</th></tr>
+<div class="sp1">新４年生が配属されました！</a>
+<br>
+</div>
+
+
+</ul>
+
+<a href="javascript:void(0)" id="category_2017" onclick="show('2017');" class="newsclose">close</a>
+</div>
+<br>
+<div style="height:20px">
+</div>
+
+<!--  2017   -->
+
+<!--  2016   -->
+
+<a href="javascript:void(0)" id="category_2016" onclick="show('2016');" class="newsbar">2016 年度のニュース</a>
+<div id="layer_2016" style="display: block;position:relative;border:solid 1px #c0c0c0;padding-left:20px;" class="open">
+
+<ul class="news">
+<div align="center"><img src="news/2016/member2016.JPG" width="500" height="374"><br>
+2016.4.25 at HiSOR<br><br>
+
+<li class="n1">2017 年 3 月 23 日</th></tr>
+<div class="sp1"><a href="news/2017/20170323sotsugyoushiki.html">卒業式および送別会が行われました。</a>
+<br>
+</div> 
+
+<li class="s1">2017 年 3 月 17 日 - 20 日</th></tr>
+<div class="sp1">日本物理学会にChen(D3)、角田(D1)、吉川(M1)が参加し、最新の研究成果を発表しました。
+<br>
+</div>
+
+<li class="n1">2017 年 3 月 2 日 - 3 日</th></tr>
+<div class="sp1"><a href="http://www.hsrc.hiroshima-u.ac.jp/symposium/2017/21st_symposium.htm">The 21st Hiroshima International Symposium on Synchrotron Radiation</a>に田北仁志(D1)、Umut Mansur(D1)、後藤一希(M1)、宮下剛夫(M1)、市川典万(B4)、檜垣聡太(B4)が参加し発表を行いました。また、この学会で田北仁志(D1)と後藤一希(M1)がBest Student Poster Awardを受賞しました！
+<br>
+</div>
+
+
+<li class="s1">2017年 2 月 14 日 - １5 日</th></tr>
+<div class="sp1">修論発表会が行われました。
+<br>
+</div>
+
+<li class="n1">2017年 2 月 13 日</th></tr>
+<div class="sp1">卒論発表会が行われました。
+<br>
+</div>
+
+<li class="s1">2017年 1 月 24 日 - 25 日</th></tr>
+<div class="sp1"><a href="http://www.sssj.org/Kansai/sssn2017/">Symposium on Surface Science & Nanotechnology -25th Anniversary of SSSJ Kansai-</a>に角田一樹(D1)、吉川智己(M1)が参加し、研究成果を発表しました。
+また、この国際シンポジウムで角田一樹(D1)がYoung Researcher Awardを受賞しました！
+<br>
+</div>
+
+<li class="n1">2017年 1 月 7 日 - 9 日
+<div class="sp1"><a href="http://www.jssrr.jp/jsr2017/">日本放射光学会</a>に角田一樹(D1)が参加し、研究成果を発表しました。
+<br>
+</div>
+
+<li class="s1">2016年 12 月 19 日</th></tr>
+<div class="sp1">光物性研究室と放射光物性・物理研究室合同で忘年会を行いました。
+<br>
+</div>
+
+<li class="n1">2016 年 11 月 24 日 - 26 日
+<div class="sp1"><a href="http://home.hiroshima-u.ac.jp/srphys/news/2016/20161124JKWS.html">2016 Japan-Korea Student Workshop</a>に参加し発表を行いました。また、この学会で後藤一希(M1)がExcellent Presentation Awardを受賞しました！
+<br>
+</div>
+
+<li class="s1">2016年 11 月 1 日
+<div class="sp1">真木祥千子助教が赴任されました！
+<br>
+</div>
+
+
+<li class="n1">2016年 10 月 1 日
+<div class="sp1">研究室に新メンバーが加わりました！
+<br>
+</div>
+
+
+<li class="s1">2016年 9 月 27 日 - 30 日
+<div class="sp1"><a href="http://thetis.ph.tsukuba.ac.jp/~hatsugai/modules/pico2/?ml_lang=en">BEC2016</a>に木村教授、角田(D1)、吉川(M1)が参加し、研究成果を発表しました。
+<br>
+</div>
+
+<li class="n1">2016年 9 月 20 日 - 21 日
+<div class="sp1"><a href="http://home.hiroshima-u.ac.jp/srphys/news/2016/20160920seminartrip.html">ゼミ旅行</a>に行きました。
+<br>
+</div>
+
+<li class="s1">2016年 9 月 13 日 - 16 日
+<div class="sp1">日本物理学会に参加し、研究成果を発表しました。
+<br>
+</div>
+
+<li class="n1">2016年 9 月 5 日 - 9 日
+<div class="sp1"><a href="http://www.material.tohoku.ac.jp/~icfsma/index.html">ICFMSA'16</a>に木村教授、Chen(D3)が参加し、研究成果を発表しました。
+<br>
+</div>
+
+<li class="s1">2016年 7 月 3 日 - 8 日
+<div class="sp1"><a href="https://indico.psi.ch/conferenceDisplay.py?confId=3461">VUVX2016</a>に角田一樹(D1)が参加し、研究成果を発表しました。
+<br>
+</div>
+
+<li class="n1">2016年 6 月 21 日 - 24 日
+<div class="sp1"><a href="http://www.emnmeeting.org/Istanbul/2016/">EMN Prague meeting</a>で角田一樹(D1)、田北仁志(D1)が招待講演を行いました。
+<br>
+</div>
+
+<li class="s1">2016年 4 月 25 日
+<div class="sp1"><a href="http://home.hiroshima-u.ac.jp/srphys/news/2016/20160401shinkan.html">光物性研究室と放射光物性・物理研究室合同で新入生歓迎会を行いました。</a>
+<br>
+</div>
+
+<li class="n1">2016年 4 月 6 日
+<div class="sp1"><a href="http://home.hiroshima-u.ac.jp/srphys/news/2016/20160401shinkan.html">光物性研究室と放射光物性・物理研究室合同でお花見・親睦会を行いました。</a>
+<br>
+</div>
+
+<li class="s1">2016年 4 月 1 日
+<div class="sp1"><a href="http://home.hiroshima-u.ac.jp/srphys/news/2016/20160401shinkan.html">新4年生が配属されました！</a>
+<br>
+</div>
+
+</ul>
+
+<a href="javascript:void(0)" id="category_2016" onclick="show('2016');" class="newsclose">close</a>
+</div>
+<br>
+<div style="height:20px">
+</div>
+
+<!--  2016   -->
+
+<!--  2015   -->
+
+<a href="javascript:void(0)" id="category_2015" onclick="show('2015');" class="newsbar">2015 年度のニュース</a>
+<div id="layer_2015" style="display: block;position:relative;border:solid 1px #c0c0c0;padding-left:20px;" class="close">
+
+<ul class="news">
+<div align="center"><img src="news/2015/2015member.JPG" width="500" height="374"><br>
+2015.4.27 at HiSOR<br><br>
+
+<li class="s1">2016年 3 月 23 日
+<div class="sp1">角田一樹(M2)が理学研究科長賞を受賞しました！
+<br>
+</div>
+
+<li class="n1">2016年 3 月 23 日
+<div class="sp1">吉川智己(B4)が卒業論文発表優秀賞を受賞しました！
+<br>
+</div>
+
+<li class="s1">2016年 3 月 23 日
+<div class="sp1">平成27年度卒業式が行われました。
+<br>
+</div>
+
+<li class="n1">2016年 3 月 19 日 - 22 日
+<div class="sp1">応用物理学会に参加し発表を行いました。
+<br>
+</div>
+
+<li class="s1">2016年 3 月 14 日 - 18 日
+<div class="sp1">APS March Meeting 2016に参加し発表を行いました。
+<br>
+</div>
+
+<li class="n1">2016 年 3 月 10 日 - 11 日
+<div class="sp1">The 20th Hiroshima International Symposium on Synchrotron Radiationに参加し発表を行いました。また、この学会で後藤一希(B4)がBest Student Poster Awardを受賞しました！
+<br>
+</div>
+
+<li class="s1">2016年 2 月 17 日
+<div class="sp1">修士論文発表会が行われました。
+<br>
+</div>
+
+<li class="n1">2016年 2 月 12 日
+<div class="sp1">卒業論文発表会が行われました。
+<br>
+</div>
+
+<li class="s1">2016年 1 月 27 日
+<div class="sp1">谷口雅樹 特任教授の第72回中国文化賞受賞記念祝賀会が開催されました。
+<br>
+</div>
+
+<li class="n1">2016年 1 月 9 日 -  11 日</th></tr>
+<div class="sp1">日本放射光学会に参加し発表を行いました。</a>
+<br>
+</div>
+
+<li class="s1">2015年 12 月 24 日
+<div class="sp1">本研究室M2の角田一樹が平成27年度広島大学エクセレント・スチューデント・スカラシップ対象学生に選ばれ表彰されました！
+<br>
+</div>
+
+<li class="n1">2015年 12 月 21 日</th></tr>
+<div class="sp1">光物性研究室と放射光物性・物理研究室合同で忘年会を行いました。</a>
+<br>
+</div>
+
+<li class="s1">2015年 11 月 30 日 - 12 月 3 日</th></tr>
+<div class="sp1"><a href = "news/2015_1/JKWS.html">日韓ワークショップに参加し、頼燎平(M1)がBest Presentation Awardを受賞しました！</a>
+<br>
+</div>
+
+<li class="n1">2015年 11 月 27 日 - 28 日</th></tr>
+<div class="sp1"><a href="http://www.surfchem.k.u-tokyo.ac.jp/SIS2015/">表面・界面スペクトロスコピー2015</a>で、角田一樹(M2)がStudent Prizeを受賞しました！</a>
+<br>
+</div>
+
+<li class="s1">2015年 11 月 19 日</th></tr>
+<div class="sp1">磁性トポロジカル絶縁体の強磁性発現機構を明らかにした研究成果がNature Communicationsに掲載されました！<br>
+プレスリリース(<a href="http://www.hiroshima-u.ac.jp/top/koho_press/press/h2701-12/p_xqbb87.html">http://www.hiroshima-u.ac.jp/top/koho_press/press/h2701-12/p_xqbb87.html)</a>
+<br>
+<a href="http://www.nature.com/ncomms/2015/151119/ncomms9913/abs/ncomms9913.html">M. Ye <it>et al</it>., Nat. Commun. 6, 8913 (2015).</a>
+<br>
+</div>
+
+<li class="n1">2015年 11 月 15 日 - 20 日</th></tr>
+<div class="sp1">第15回半導体界面形成に関する国際会議(ICFSI-15)に参加し発表を行いました。
+またこの学会で、角田一樹(M2)がBest Student Poster Awardを受賞しました！</a>
+<br>
+</div>
+
+<li class="s1">2015年 11 月 3 日</th></tr>
+<div class="sp1"><a href="http://www.chugoku-np.co.jp/column/article/article.php?comment_id=197411&comment_sub_id=0&category_id=450">谷口雅樹 特任教授が第72回中国文化賞を受賞しました！</a></a>
+<br>
+</div>
+
+<li class="n1">2015年 10 月 16 日</th></tr>
+<div class="sp1">角田一樹(M2)の日本学術振興会特別研究員(DC1)への採用が内定しました。</a>
+<br>
+</div>
+
+<li class="s1">2015年 9 月 16 日 - 19 日</th></tr>
+<div class="sp1"><a href = "news/2015_1/nichibutsu.html">日本物理学会に参加し発表を行いました。</a>
+<br>
+</div>
+
+<li class="n1">2015年 9 月 1 日 - 4 日</th></tr>
+<div class="sp1"><a href="http://www.emnmeeting.org/spain/">EMN Spain meeting 2015</a>で角田一樹(M2)が招待講演を行いました。
+<br>
+</div>
+
+<li class="s1">2015年 8 月 25 日</th></tr>
+<div class="sp1"><a href = "news/2015_1/zhu.html">朱思源(D3)の送別会を行いました。</a>
+<br>
+</div>
+
+<li class="n1">2015年 8 月 21 日</th></tr>
+<div class="sp1">トポロジカル絶縁体の非平衡電子状態に関する研究成果がScientific Reportsに掲載されました！<br>
+<a href="http://www.nature.com/articles/srep13213">S. Zhu <it>et al</it>., Sci. Rep. 5, 13213 (2015).</a>
+<br>
+</div>
+
+<li class="s1">2015年 8 月 7 日 - 8 日</th></tr>
+<div class="sp1"><a href = "news/2015_1/semi.html">ゼミ旅行に行きました。</a>
+<br>
+</div>
+
+<li class="n1">2015年 6 月 20 日</th></tr>
+<div class="sp1"><a href = "news/2015_1/taniguchisensei.html">谷口雅樹 名誉教授の退官記念パーティーが開催されました。</a>
+<br>
+</div>
+
+<li class="s1">2015年 5 月 31 日</th></tr>
+<div class="sp1"><a href = "news/2015_1/softball.html">春季ソフトボール大会で優勝しました！</a>
+<br>
+</div>
+
+<li class="n1">2015年 4 月 27 日</th></tr>
+<div class="sp1"><a href = "news/2015_1/shinkan.html">光物性研究室と放射光物性・物理研究室合同で新入生歓迎会を行いました。</a>
+<br>
+</div>
+
+<li class="s1">2015年 4 月 14 日</th></tr>
+<div class="sp1">強磁性形状記憶合金のマルテンサイト機構に関する研究成果がPhysical Review B に掲載されました！<br>
+<a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.91.134417">K. Sumida <it>et al</it>., Phys. Rev. B 91, 134417 (2015).</a>
+<br>
+</div>
+
+<li class="n1">2015年 4 月 6 日</th></tr>
+<div class="sp1"><a href = "news/2015_1/ohanami.html">光物性研究室と放射光物性・物理研究室合同でお花見・親睦会を行いました。</a>
+<br>
+</div>
+
+<li class="s1">2015年 4 月 1 日</th></tr>
+<div class="sp1"><a href = "news/2015_1/kimuraken.html">木村研が発足しました。</a>
+<br>
+</div>
+
+</ul>
+
+<a href="javascript:void(0)" id="category_2015" onclick="show('2015');" class="newsclose">close</a>
+</div>
+<br>
+<div style="height:20px">
+</div>
+
+<!--  2015   -->
+
+
+
+<!--  2014   -->
+
+<a href="javascript:void(0)" id="category_2014" onclick="show('2014');" class="newsbar">2014 年度のニュース</a>
+<div id="layer_2014" style="display: none;position:relative;border:solid 1px #c0c0c0;padding-left:20px;" class="close">
+
+<ul class="news">
+<div align="center"><img src="news/2014_1/2014member.jpg" width="500" height="374"><br>
+2014.4.25 at HiSOR<br><br>
+
+<li class="n1">2015 年 3 月 23 日</th></tr>
+<div class="sp1"><a href = "news/2014/2015sotsugyoushiki.html">卒業式</a>
+<br>
+</div>
+
+<li class="s1">2015 年 3 月 21 - 24 日</th></tr>
+<div class="sp1"><a href = "news/2014/2015nitibutuharu.html">日本物理学会第70回年次大会</a>
+<br>
+</div>
+
+<li class="n1">2015 年 3 月 5 日 - 6 日</th></tr>
+<div class="sp1"><a href = "news/2014/2015HiSORSympo.html">The 19th Hiroshima International Symposium on Synchrotron Radiation</a>
+<br>
+</div>
+
+<li class="s1">2015 年 2 月 13 日 , 16 日
+<div class="sp1"><a href = "news/2014/2015shushi.html">修士論文発表会</a>
+<br>
+</div>
+
+<li class="n1">2015 年 2 月 12 日</th></tr>
+<div class="sp1"><a href = "news/2014/2015sotugyou.html">卒業論文発表会</a>
+<br>
+</div>
+
+<li class="s1">2014年 10 月 1 日
+<div class="sp1">光物性研究室 新メンバー</a>
+<br>
+</div>
+
+<li class="n1">2014 年 9 月 16 日 - 9 月 17 日</th></tr>
+<div class="sp1"><a href = "news/2014/semi2014.html">ゼミ旅行 2014</a>
+<br>
+</div>
+
+<li class="s1">2014 年 9 月 7 日 - 10 日</th></tr>
+<div class="sp1"><a href = "news/2014/2014nitibutuaki.html">日本物理学会 2014秋季大会</a>
+<br>
+</div>
+
+<li class="n1">2014年 7 月 11 日 - 7 月 13 日</th></tr>
+<div class="sp1"><a href = "news/2014/nikkan2014.html">2014 Japan-Korea Student Workshop </a>
+<br>
+</div>
+
+<li class="s1">2014年 5 月 25 日</th></tr>
+<div class="sp1"><a href = "news/2014/2014softball.html">ソフトボール大会</a>
+<br>
+</div>
+
+<li class="n1">2014年 4 月 25 日</th></tr>
+<div class="sp1"><a href = "news/2014/shinkan.html">光物性研究室・放射光研究室合同の新入生歓迎会</a>
+<br>
+</div>
+
+<li class="s1">2014年 4 月 7 日
+<div class="sp1">お花見</a>
+<br>
+</div>
+
+</ul>
+
+<a href="javascript:void(0)" id="category_2014" onclick="show('2014');" class="newsclose">close</a>
+</div>
+<br>
+<div style="height:20px">
+</div>
+
+<!--  2014   -->
+
+<!--  2013   -->
+
+<a href="javascript:void(0)" id="category_2013" onclick="show('2013');" class="newsbar">2013 年度のニュース</a>
+<div id="layer_2013" style="display: none;position:relative;border:solid 1px #c0c0c0;padding-left:20px;" class="close">
+
+<ul class="news">
+<div align="center"><img src="news/2013/2013menber.jpg" width="500" height="370"><br>
+2013.4.26 at HiSOR<br><br>
+
+
+<li class="n1">2014 年 3 月 29 日</th></tr>
+<div class="sp1">広島大学放射光科学研究センターの宮本幸治助教（本研究室OB）が第8回日本物理学会若手奨励賞を受賞しました。<br>
+<a href = "news/2014_1/20140329_Miyamoto_award.html"> 第8回日本物理学会若手奨励賞</a>
+<br>
+</div>
+
+<li class="s1">2014 年 3 月 27 - 30 日</th></tr>
+<div class="sp1"><a href = "news/2014_1/2014nitibutuharu.html">第69回日本物理学会</a>
+<br>
+</div>
+
+<li class="n1">2014 年 3 月 23 日</th></tr>
+<div class="sp1"><a href = "news/2014_1/2014sotsugyoushiki.html">卒業式</a>
+<br>
+</div>
+
+<li class="s1">2014 年 2 月 17 日</th></tr>
+<div class="sp1"><a href="news/2014_1/Dthesis_Kuroda_Munisa.html">博士論文公聴会</a>
+<br>
+</div>
+
+<li class="n1">2014 年 2 月 14 日</th></tr>
+<div class="sp1"><a href = "news/2014_1/2014sotugyou.html">卒業論文発表会</a>
+<br>
+</div>
+
+<li class="s1">2014 年 2 月 12-13 日
+<div class="sp1"><a href = "news/2014_1/2014shushi.html">修士論文発表会</a>
+<br>
+</div>
+
+<li class="n1">2014年 1 月 16 日
+<div class="sp1">TlBiSe<sub>2</sub>の最表面に関する論文 (<a href="http://prb.aps.org/abstract/PRB/v88/i24/e245308">K. Kuroda <it>et al., Phys. Rev. B 88, 245308 (2013).</a>)
+の STM 像が Physical Review B 誌の "Kaleidoscope" として選ばれ公式 HP 上に掲示されました。<br>
+<a href="http://prb.aps.org/kaleidoscope/prb/88/24/245308">http://prb.aps.org/kaleidoscope/prb/88/24/245308</a>
+<br>
+</div>
+
+<li class="s1">2014年 1 月 10 日
+<div class="sp1">広島大学放射光科学研究センターの宮本幸治助教（本研究室OB）が第18回日本放射光学会奨励賞を受賞しました。<br>
+<br>
+</div>
+
+<li class="n1">2014年 1 月 10 日
+<div class="sp1">本研究室の井野明洋(大学院理学研究科助教)の教育研究活動が評価され、第12回(平成25年度)学長表彰の対象となり、表彰されました。<br>
+<a href="http://www.hiroshima-u.ac.jp/top/intro/gakuchohyosyo/p-prize12/"> 第12回(平成25年度)学長表彰</a>
+<br>
+</div>
+
+<li class="s1">2013年 12 月 24 日
+<div class="sp1">本研究室 D3 の黒田健太が広島大学エクセレント・スチューデント・スカラシップ 対象学生に選ばれ表彰されました。
+<br>
+</div>
+
+<li class="n1">2013年 12 月 23 日
+<div class="sp1">TlBiSe<sub>2</sub>の最表面に関する研究がPhysical Review B に掲載されました。<br>
+<a href="http://prb.aps.org/abstract/PRB/v88/i24/e245308">Kuroda <it>et al</it>., Phys. Rev. B 88, 245308 (2013)</a>
+<br>
+</div>
+
+<li class="s1">2013年 11 月 4 日 - 8 日
+<div class="sp1"><a href = "news/2013/ACSIN-12&ICSPM21.html"> ACSIN-12&ICSPM21 at Tsukuba (Japan) </a>
+<br>
+</div>
+
+<li class="n1">2013年 9 月 25 日 - 28 日
+<div class="sp1"><a href = "news/2013/jps2013_fall.html"> 日本物理学会 2013年秋季大会 </a>
+<br>
+</div>
+
+<li class="n1">2013年 8 月 31 日 -9 月 1 日 
+<div class="sp1"><a href = "news/2013/zemi2013.html">ゼミ旅行 2013 </a>
+<br>
+</div>
+
+<li class="s1">2013年 8 月 26 日 - 29 日
+<div class="sp1"><a href = "news/2013/nikkan2013.html"> 日韓workshop 2013 </a>
+<br>
+</div>
+
+<li class="n1">2013年 7 月 28 日 - 8 月 2 日 
+<div class="sp1"><a href = "news/2013/CORPES2013.html">CORPES 2013</a>
+<br>
+</div>
+
+<li class="s1">2013年 5 月 12 日
+<div class="sp1"><a href = "news/2013/2013softball.html">ソフトボール大会</a>
+<br>
+</div>
+
+<li class="n1">2013年 4 月 26 日 
+<div class="sp1"><a href = "news/2013/2013kangeikai.html">光物性研究室・放射光研究室合同の新入生歓迎会</a> 
+<br>
+</div>
+
+<li class="s1">2013年 4 月 8 日
+<div class="sp1"><a href = "news/2013/2013shinboku.html">親睦会　～お花見～</a>
+<br>
+</div>
+
+<li class="n1">2013年 3 月 26 日 - 29 日
+<div class="sp1"><a href = "news/2013/2013nitibutuharu.html">第68回日本物理学会</a>
+<br>
+</div>
+
+<li class="s1">2013年 3 月 23 日
+<div class="sp1"><a href = "news/2013/2013sotugyoushiki.html">卒業式</a>
+<br>
+</div>
+
+<li class="n1">2013年 2 月 28 日 3 月 1日
+<div class="sp1"><a href = "news/2013/2013HiSORSympo.html">The 17th Hiroshima International Symposium on Synchrotron Radiation</a>
+<br>
+</div>
+
+<li class="s1">2013年 2 月 21 日
+<div class="sp1"><a href = "news/2013/2013gakui.html">学位論文公聴会</a>
+<br>
+</div>
+
+<li class="n1">2013年 2 月 15 日
+<div class="sp1"><a href = "news/2013/2013sotugyou.html">卒業論文発表会</a>
+<br>
+</div>
+
+<li class="s1">2013年 2 月 12 - 13 日
+<div class="sp1"><a href = "news/2013/2013shushi.html">修士論文発表会</a>
+<br>
+</div>
+
+<li class="n1">2013年 1 月 12 - 14 日
+<div class="sp1"><a href = "news/2013/20130112_JSR2013.html"> 第26回日本放射光学会年会、放射光科学合同シンポジウム</a>
+<br>
+</div>
+
+<li class="s1">2013年 1 月 7 - 10 日
+<div class="sp1"><a href = "news/2013/emn2013.html"> EMN west meeting 2013</a>
+<br>
+</div>
+
+</ul>
+
+<a href="javascript:void(0)" id="category_2013" onclick="show('2013');" class="newsclose">close</a>
+</div>
+<br>
+<div style="height:20px">
+</div>
+
+<!--  2013   -->
+
+
+
+<!--  2012   -->
+
+
+<a href="javascript:void(0)" id="category_2012" onclick="show('2012');" class="newsbar">2012 年度のニュース</a>
+<div id="layer_2012" style="display: none;position:relative;border:solid 1px #c0c0c0;padding-left:20px;" class="close">
+
+<ul class="news">
+<div align="center"><img src="news/2012/2012Members.JPG" width="500" height="336"><br>
+2012.11.29 at HiSOR<br><br>
+
+
+<li class="n1">2012年 11 月 27 日
+<div class="sp1"><a href = "news/2012/20121127_Yaji_award.html">矢治光一郎 助教（東大物性研）日本物理学会若手奨励賞受賞</a>
+<br>
+</div>
+
+<li class="s1">2012年 11 月 20 - 22 日
+<div class="sp1"><a href = "news/2012/20121119_jsss2012.html">第３２回　日本表面科学会　学術講演会</a>
+<br>
+</div>
+
+
+<li class="n1">2012年 11 月 20 日
+<div class="sp1"><a href = "news/2012/20121120_Miyamoto_award.html">宮本幸治 広大放射セ助教（2008年 博士修了）学長賞受賞 </a>
+<br>
+</div>
+
+
+
+<li class="s1">2012年 11 月 7 日
+<div class="sp1"><a href = "news/2012/20121107_Okamoto_PRB.html"> Ge系トポロジカル絶縁体の電子状態の解明 </a>
+<br>
+</div>
+
+<li class="n1">2012年 10 月 17 日
+<div class="sp1"><a href = "news/2012/20121017_Miyamoto_PRL.html"> 高スピン偏極ディラック粒子発見 </a>
+<br>
+</div>
+
+<li class="s1">2012年 9 月 18 日 - 9 月 21 日
+<div class="sp1"><a href = "news/2012/jpsj_fall.html"> 2012年 日本物理学会秋季大会 </a>
+<br>
+</div>
+
+
+<li class="n1">2012年 9 月 16 日 - 9 月 21 日
+<div class="sp1"><a href = "news/2012/icess12.html"> ICESS12 @ Saint-Malo, France </a>
+<br>
+</div>
+
+<!--ここから-->
+<li class="s1">2012年 8 月 30 日 - 9 月 1 日
+<div class="sp1"><a href = "news/2012/20120830_workshop.html">2012 Japan-Korea Student Workshop </a>
+<br>
+</div>
+<!--ここまでテンプレ-->
+
+
+<!--ここから-->
+<li class="n1">2012年 7 月 29 日 - 30日
+<div class="sp1"><a href = "news/2012/20120729_zemiryokou.html">ゼミ旅行（帝釈峡） </a>
+<br>
+</div>
+<!--ここまでテンプレ-->
+
+
+<li class="s1">2012年 6 月 10 日
+<div class="sp1"><a href = "news/2012/20120610_spring_softball.html">物理科学科ソフトボール大会　＜春＞ </a>
+<br>
+
+
+</div>
+
+<li class="n1">2012年 5 月 16 日
+<div class="sp1"><a href = "news/2012/20120516Kuroda_PRL.html">鉛系新型トポロジカル絶縁体発見</a>
+<br>
+</div>
+
+<li class="s1">2012年 4 月 16 日
+<div class="sp1"><a href = "news/2012/20120416_kangeikai.html">光物性研究室・放射光研究室合同の新入生歓迎会</a>
+<br>
+</div>
+
+
+<li class="n1">2012年 4 月 6 日
+<div class="sp1"><a href = "news/2012/20120406_shimbokukai.html">親睦会<br>
+<br>
+</div>
+
+
+</ul>
+
+<a href="javascript:void(0)" id="category_2012" onclick="show('2012');" class="newsclose">close</a>
+</div>
+<br>
+<div style="height:20px">
+</div>
+
+<!--  2012   -->
+
+
+<!--  2011   -->
+
+
+
+
+<a href="javascript:void(0)" id="category_2011" onclick="show('2011');" class="newsbar">2011 年度のニュース</a>
+<div id="layer_2011" style="display: none;position:relative;border:solid 1px #c0c0c0;padding-left:20px;" class="close">
+
+<ul class="news">
+
+<div align="center"><img src="news/2011/2011Members.JPG" width="500" height="400"><br>
+2011.4 at HiSOR<br><br>
+</div>
+
+
+<li class="s1">2012年 3 月 24日 - 27日
+<div class="sp1"><a href = "news/2012/JPS_spring.html">日本物理学会　2012年 春季大会</a></a></div>
+
+<li class="n1">2012 年 3 月 23 日
+<div class="sp1"><a href = "news/2012/HappyouYusyuu.html">4 年生 2 名が優秀発表賞受賞</a>
+<br>
+<a href = "news/2012/rigakusyou.html">修士2年生宮原が理学研究科長賞を受賞</a></a></div>
+
+<li class="s1">2012 年 3 月 23 日
+<div class="sp1"><a href = "news/2012/gakui.html">平成23年度学位授与式</a></a></div>
+
+<li class="n1">2012年 3 月 2日 - 1日
+<div class="sp1"><a href = "news/2012/hisor_symp.html">The 16th HiSOR symposium</a></a></div>
+
+<li class="s1">2012年 2 月 23日 - 24日
+<div class="sp1"><a href = "news/2012/ISSP.html">ISSPワークショップ「トポロジカル絶縁体の表面電子状態」</a></a></div>
+
+<li class="n1">2012年 2 月 15日
+<div class="sp1"> <a href = "news/2012/20120215GThesis.html">平成 23 年度　卒業論文発表会</a></a></div>
+
+<li class="s1">2012年 2 月 13日 - 14日
+<div class="sp1"><a href = "news/2012/20120214MThesis.html">平成 23 年度　修士論文発表会</a></a></div>
+
+<li class="n1">2012年 2 月 2日
+<div class="sp1"><a href = "news/2012/20120202Miyamoto_PRL.html">質量ゼロの電子を新たに発見</a></a></div>
+
+<li class="s1">2012年 1 月 6日 - 9日
+<div class="sp1"><a href = "news/2012/jsr.html">日本放射光学会</a></a></div>
+
+<li class="n1">2011年 12 月 22日
+<div class="sp1"><a href = "news/2011/cleaning.html">大掃除</a></a></div>
+
+<li class="s1">2011年 12 月 15日 - 17日
+<div class="sp1"><a href = "news/2011/sssj.html">表面科学学術講演会</a></a></div>
+
+<li class="n1">2011年 12 月 12日 - 12 月 15日
+<div class="sp1"><a href = "news/2011/ISSS6.html">International Symposium on Surface Science (ISSS-6)</a></a></div>
+
+<li class="s1">2011年 12 月 4日
+<div class="sp1"><a href = "news/2011/sohuto.html">2011年秋　物理科学科ソフトボール大会</a></a></div>
+
+<li class="n1">2011年 11 月 28日 - 12 月 2日
+<div class="sp1"><a href = "news/2011/mrs.html">Materials Research Society Fall Meeting</a></a></div>
+
+<li class="s1">2011年 11 月 9 日
+<div class="sp1"><a href = "news/2011/Jiang_Dkoutyoukai.html">姜健 博士論文公聴会</a></a></div>
+
+
+<li class="n1">2011年 10 月 21日
+<div class="sp1"><a href = "news/2011/ESPRESSO.html">世界最高精度のスピン分解光電子分光装置を開発</a>　<br>
+</div>
+
+<li class="s1">2011年 9 月 29日 - 10 月 2日 
+<div class="sp1"><a href = "news/2011/workshop2011.html">2011 Japan-Korea Student Workshop</a>　<br>
+</div> 
+
+<li class="n1">2011年 9 月 21日
+<div class="sp1"><a href = "news/2011/inosensei published.html">井野助教が分担執筆した本が出版されました</a>　<br>
+</div> 
+
+<li class="s1">2011年 9 月 21 - 24日
+<div class="sp1"><a href = "news/2011/jpsj.html">日本物理学会 2011年 秋季大会</a>　<br>
+</div> 
+
+<li class="n1">2011年 9 月 1日
+<div class="sp1"><a href = "news/2011/kimurasensei published.html">木村准教授が分担執筆した本が出版されました</a>　<br>
+</div> 
+
+<li class="s1">2011年 8 月 17 - 19日
+<div class="sp1"><a href = "news/2011/summerdouzyou.html">飯綱・サイエンスサマー道場</a>　<br>
+</div>
+
+<li class="n1">2011年 8 月 19日
+<div class="sp1"><a href = "news/2011/hayashifero-.html">内海有希さん(D2)林フェロー(プレ・ドクトラル)に採用</a>　<br>
+</div> 
+
+<li class="s1">2011年 8 月 2 日
+<div class="sp1"><a href = "news/2011/Ye_Dkoutyoukai.html">叶茂 博士論文公聴会</a></a></div>
+
+
+<li class="n1">2011年 7 月 30~31日
+<div class="sp1"><a href = "news/2011/zemiryokou2011.html">ゼミ旅行（大久野島 竹原町並み保存地区）</a>　<br>
+</div> 
+
+<li class="s1">2011年 7 月 28 日
+<div class="sp1"><a href = "news/2011/20110728_kim.html">三次元トポロジカル絶縁体Bi<sub>2</sub>Se<sub>3</sub>における表面ディラック電子の散乱メカニズムを解明</a></div>
+
+<li class="n1">2011年 6 月 19 日
+<div class="sp1">東京大学石坂研究室との共同研究の成果が<a href = "http://www.nature.com/nmat/journal/v10/n7/full/nmat3051.html">Nature Materials誌</a>に掲載されました。</div>
+
+<li class="s1">2011年 5 月 21 日
+<div class="sp1"><a href = "http://www.sssj.org/">第 30 回表面科学学術講演会</a>にて<a href = "news/2011/ssjpAward.html">黒田健太が日本表面科学会講演奨励賞を受賞</a>
+</div>
+
+
+<li class="n1">2011年 4 月 24 日
+<div class="sp1"><a href = "news/2011/softball.html">物理科学科ソフトボール大会</a>
+<br>
+</div>
+
+
+<li class="s1">2011年 4 月 18 日
+<div class="sp1"><a href = "news/2011/NewMember.html">光物性研究室・放射光研究室合同の新入生歓迎会</a>
+<br>
+</div>
+
+
+<li class="n1">2011年 4 月 8 日
+<div class="sp1"><a href = "news/2011/ohanami.html">親睦会<br>
+
+</ul>
+
+<a href="javascript:void(0)" id="category_2011" onclick="show('2011');" class="newsclose">close</a>
+</div>
+<br>
+<div style="height:20px">
+</div>
+
+
+
+
+
+<!--  2011   -->
+
+
+
+<!--  2010   -->
+
+
+<a href="javascript:void(0)" id="category_2010" onclick="show('2010');" class="newsbar">2010 年度のニュース</a>
+<div id="layer_2010" style="display: none;position:relative;border:solid 1px #c0c0c0;padding-left:20px;" class="close">
+
+<ul class="news">
+
+<div align="center"><img src="news/2010/2010Members2.jpg" width="400" height="300"><br>
+2010.4 at HiSOR<br><br>
+</div>
+
+
+<li class="s1">2011年 3 月 23 日
+<div class="sp1"><a href = "news/2010_1/yuusyuusyou.html">4 年生 2 名が優秀発表賞を受賞</a><br><a href = "news/2010_1/gakutyoushou.html">修士 2 年生の黒田が理学研究科長賞を受賞</a><br>
+<br>
+</div>
+
+<li class="n1">2011年 3 月 23 日
+<div class="sp1"><a href = "news/2010_1/sotugyou.html">平成22年度学位授与式</a><br>
+<br>
+</div>
+
+
+<li class="s1">2011年 3 月 21 - 25 日
+<div class="sp1"><a href = "news/2010_1/APS.html">APS March Meeting, Dallas, America</a><br>
+<br>
+</div>
+
+
+<li class="s1">2011年 2 月 18 日
+<div class="sp1"><a href = "news/2010_1/20110218DThesis.html">平成 22 年度　学位論文公聴会</a><br>
+<br>
+</div>
+
+<li class="n1">2011年 2 月 17 日
+<div class="sp1"><a href = "news/2010_1/20110217GThesis.html">平成 22 年度　卒業論文発表会</a><br>
+<br>
+</div>
+
+<li class="s1">2011年 2 月 15 - 16 日
+<div class="sp1"><a href = "news/2010_1/20110215_16MThesis.html">平成 22 年度　修士論文発表会</a><br>
+<br>
+</div>
+
+<li class="n1">2011年 1 月 7 - 10 日
+<div class="sp1"><a href = "news/2010_1/JSR11.html">第 24 回日本放射光学会年会・放射光科学合同シンポジウム</a><br>
+<br>
+</div>
+
+<li class="s1">2010年 12 月 27 日
+<div class="sp1"><a href = "news/2010_1/20101227Cleaning.html">大掃除</a><br>
+<br>
+</div>
+
+<li class="n1">2010年 12 月 10 - 11 日
+<div class="sp1"><a href = "news/2010_1/Sync_Surface.html">放射光表面科学部会</a><br>
+<br>
+</div>
+
+<li class="s1">2010年 11 月 29 日
+<div class="sp1"><a href = "news/2010_1/20101129_kuroda.html">当研究室の研究成果が Nature 社 Nature Asia Pacific の web にて<br>ハイライト記事として紹介</a><br>
+<br>
+</div>
+
+<li class="n1">2010年 11 月 28 日
+<div class="sp1"><a href = "news/2010_1/20101128Softball.html">2010 年秋　物理科学科ソフトボール大会</a>　<br>
+</div>
+
+<li class="s1">2010年 11 月 22 日
+<div class="sp1"><a href = "news/2010_1/20101122HAnzaiPRL.html">「高温超伝導体で電子と格子振動が強く結合する仕組みを解明」</a><br>
+プレス発表<br>
+</div>
+
+<li class="n1">2010年 10 月 5 日
+<div class="sp1"><a href = "news/2010_1/NewMember.html">光物性研究室　新メンバー歓迎会</a>　<br>
+</div>
+
+<li class="s1">2010年 9 月 26 日 - 30 日
+<div class="sp1"><a href = "news/2010_1/ICTMC17.html">17th International Conference on Ternary and Multinaly Compounds</a>　<br>
+</div>
+
+
+<li class="n1">2010年 9 月 28 日
+<div class="sp1"><a href = "news/2010_1/20100928_kuroda.html">新型トポロジカル絶縁体を世界で初めて発見</a><br>
+プレス発表<br>
+</div>
+
+<li class="s1">2010年 9 月 23 日 - 26 日
+<div class="sp1"><a href = "news/2010_1/JPS10.html">日本物理学会 2010 年秋季大会</a>　<br>
+</div>
+
+<li class="n1">2010年 8 月 29 日
+<div class="sp1"><a href = "news/2010_1/workshop.html">2010 Japan-Korea Student Workshop</a>　<br>
+</div>
+
+<li class="s1">2010年 8 月 23 日 - 27 日
+<div class="sp1">18th International Vacuum Congres<br>
+</div>
+
+<li class="n1">2010年 8 月 13 日
+<div class="sp1"><a href = "news/2010_1/20100813_Kimura.html">ビスマス結晶内部のスピン偏極電子の実験的観測および理論的解明</a><br>
+プレス発表<br>
+</div>
+
+
+<li class="s1">2010年 8 月 10 日
+<div class="sp1"><a href = "news/2010_1/20100810_kuroda.html">トポロジカル絶縁体Bi<sub>2</sub>Se<sub>3</sub>の異方的なディラック電子状態を観測</a><br>
+プレス発表<br>
+</div> 
+
+
+<li class="n1">2010年 7 月 31 日・8 月 1 日
+<div class="sp1"><a href = "news/2010_1/zemiryokou.html">ゼミ旅行（島根県浜田市）</a>　<br>
+</div> 
+
+<li class="s1">2010年 7 月 11 - 16日
+<div class="sp1"><a href = "news/2010_1/vuvx_37.html">37th VUVX conference, Vancouver, Canada</a>　<br>
+</div>
+
+<li class="n1">2010年 5 月 17 日
+<div class="sp1"><a href = "news/2010/20100517Nature.html">電子スピンの向きを揃える半導体表面の作製に成功</a><br>京都大学との共同研究
+</div>
+
+<li class="s1">2010年 4 月 27 日
+<div class="sp1"><a href = "news/2010/20100426_AKimura_YMao_PRL.html">磁場で駆動する形状記憶効果のメカニズムを初めて解明</a>　プレス発表<br>
+</div>  
+
+<li class="n1">2010年 4 月 16 日
+<div class="sp1">光物性研究室　新入生歓迎会</a><br></div>
+
+</ul>
+
+<a href="javascript:void(0)" id="category_2010" onclick="show('2010');" class="newsclose">close</a>
+</div>
+<br>
+<div style="height:20px">
+</div>
+
+
+<!--  2010   -->
+
+
+
+
+
+
+<!--  2009   -->
+
+<a href="javascript:void(0)" id="category_2009" onclick="show('2009');" class="newsbar">2009 年度のニュース</a>
+<div id="layer_2009" style="display: none;position:relative;border:solid 1px #c0c0c0;padding-left:20px;" class="close">
+
+<ul class="news">
+
+<div align="center"><img src="news/2009/kangeikai/zentaisyasin.jpg" width="400" height="300"><br>
+2009.4 at HiSOR<br><br>
+</div>
+
+<li class="n1">2010年 3 月 23 日
+<div class="sp1"><a href="news/2009/sotugyou.html">平成21年度　卒業式</a><br>
+<a href="news/2009/yuusyuusyou.html">
+金聖憲が優秀卒論発表賞を受賞</a></div>
+
+<li class="s1">2010年 2 月 15 日, 16 日
+<div class="sp1"><a href = "news/2009/syuuron.html">平成21年度　修士論文発表会</a><br>
+</div>  
+
+
+<li class="n1">2010年 2 月 12 日
+<div class="sp1"><a href = "news/2009/GraduationThesis09.html">平成21年度　卒業論文発表会</a><br></div>
+
+<li class="s1">2010年 1 月 13 日
+<div class="sp1"><a href = "news/2009/HUStyleArticle.html">谷口教授　広大広報誌 HU-Style の取材を受ける</a><br></div>
+
+<li class="n1">2009年 12 月 22 日
+<div class="sp1"><a href = "news/2009/Cleaning09.html">光物性研究室　大掃除</a><br></div>
+
+<li class="s1">2009年 11 月 22 日
+<div class="sp1"><a href = "news/2009/softball_autumn.html">物理科学科ソフトボール大会　準優勝</a><br></div>
+
+<li class="n1">2009年 11 月 3 日
+<div class="sp1"><a href = "news/2009/60thBirthday.html">谷口教授の御還暦祝賀会</a><br></div>
+
+<li class="s1">2009年 10 月 22 - 24日
+<div class="sp1">ディラック電子系の物性 - グラフェン及び関連物質の最近の研究 -</a><br>
+</div>
+
+<li class="n1">2009年 10 月 5 - 10日
+<div class="sp1"><a href="news/2009/ICESS11.html">ICESS11, Nara, Japan</a><br>
+D2 Jiang Jin が Best Poster Awards を受賞</div>
+
+<li class="s1">2009 年 10 月 9 日
+<div class="sp1">研究成果をメディア発表しました。<br>
+Si 半導体表面上で時間反転対称性の破れた Rashba 効果を世界で初めて観測</div>
+
+<li class="s1">2009年 9 月 10 - 11日
+<div class="sp1"><a href="news/2009/kankoku workshop.html">Korean-Japanese Student Workshop</a></div>
+
+<li class="n1">2009 年 9 月 3 日
+<div class="sp1">広島大学 大学院理学研究科　一般選抜　合格発表</div>
+
+<li class="s1">2009年 8 月 30 日 - 9 月 1日
+<div class="sp1"><a href="news/2009/ECOSS 26.html">ECOSS 26, Parma, Italy</a></div>
+
+<li class="n1">2009年8月1日・2日
+<div class="sp1"><a href="news/2009/zemiryokou.html">ゼミ旅行（山口県萩市）</a></div>
+
+<li class="s1">2009年 7 月 19 - 24日
+<div class="sp1"><a href="news/2009/CORPES09.html">CORPES09, Zurich, Switzerland</a></div>
+
+<li class="n1">2009年7月24日
+<div class="sp1"><a href="news/2009/tanzyoubikai.html">谷口先生の誕生日会</a></div>
+
+<li class="s1">2009年6月18日
+<div class="sp1"><a href="news/2008/press.html">研究成果が広島大学 HP で紹介されました</a></div>
+
+<li class="n1">2009年6月15日
+<div class="sp1">新研究員グループ配属</div>
+
+<li class="s1">2009年6月2日
+<div class="sp1"><a href="news/2009/nishimura.html">STM/STSと角度分解光電子分光を用いてNi(111)表面状態を観測</a></div>
+
+<li class="n1">2009年4月27日
+<div class="sp1"><a href="news/2009/softball.html">物理科学科ソフトボール大会</a></div>
+
+<li class="s1">2009年4月17日
+<div class="sp1"><a href="news/2009/kangeikai.html">光物性研究室新人歓迎会</a></div> 
+
+<li class="n1">2009年4月6日
+<div class="sp1">光物性研究室新人顔合わせ会</a></div> 
+
+</ul>
+
+<a href="javascript:void(0)" id="category_2009" onclick="show('2009');" class="newsclose">close</a>
+</div>
+<br>
+<div style="height:20px">
+</div>
+
+
+<!--  2008.4 - 2009.3   -->
+<a href="javascript:void(0)" id="category_2008" onclick="show('2008');" class="newsbar">2008 年度のニュース</a>
+<div id="layer_2008" style="display: none;position:relative;border:solid 1px #c0c0c0;padding-left:20px;" class="close">
+
+<ul class="news">
+
+<div align="center"><img src="news/2008/2008Member.jpg" width="400" height="300"><br>
+2008.4 at HiSOR<br><br>
+</div>
+
+
+<li class="n1">2009年3月27日 - 30日
+<div class="sp1"><a href="news/2009/JPS09.html">日本物理学会 2009年・年次大会</a></div>  
+
+<li class="sp1">2009年3月23日
+<div class="sp1"><a href="news/2008/sotugyousiki.html">平成20年度学位記授与式</a>
+<a href="news/2008/yuusyuuhappyousyou.html"><br>
+黒田健太と原豪太郎が優秀発表賞を受賞</a></div>  
+
+<li class="n1">2009年3月11-12日
+<div class="sp1">第13回 HiSOR シンポジウム</div>  
+
+<li class="sp1">2009年3月4日
+<div class="sp1"><a href="news/2008/press.html">研究成果が新聞掲載されました</a></div>  
+
+<li class="n1">2009年2月16日
+<div class="sp1"><a href="news/2008/soturon.html">卒業研究発表会</a></div>  
+
+<li class="sp1">2009年2月12日
+<div class="sp1"><a href="news/2008/syuron.html">修士論文発表会</a></div>  
+
+<li class="n1">2009年1月9日 - 12日
+<div class="sp1"><a href="news/2008/jssrr2009.html">第22回日本放射光学会年会（東京大学）</a></div>  
+
+<li class="sp1">2008年12月23日
+<div class="sp1">研究室大掃除・忘年会</div>  
+
+<li class="n1">2008年12月17日 - 18日
+<div class="sp1"><a href="news/2008/PFWorkshop08.html">PF研究会「高分解能角度分解光電子分光研究と将来展望」 （高エネルギー加速器研究機構）</a></div>
+
+<li class="sp1">2008年11月9日 - 13日
+<div class="sp1"><a href="news/2008/isss5.html">ISSS-5 （早稲田大学）</a></div>           
+
+<li class="n1">2008年9月20日 - 23日
+<div class="sp1">日本物理学会 秋季大会 （岩手大学）</div>
+
+<li class="sp1">2008年8月22日
+<div class="sp1"><a href="news/2008/masterthesis200808.html">修士論文発表会</a></div>
+
+<li class="n1">2008年8月9日 - 10日
+<div class="sp1">ゼミ合宿（広島県　仙酔島）</div>
+
+<li class="sp1">2008年7月28日 - 8月1日
+<div class="sp1">ECOSS25 (Liverpool - UK)</div>
+
+<li class="n1">2008年7月26日 - 8月1日
+<div class="sp1">Stripes08 (Erice - Italy)</div>
+
+<li class="sp1">2008年7月12日
+<div class="sp1">物理科学科ソフトボール大会</div>
+
+<li class="n1">2008年6月12日
+<div class="sp1">4年生のグループ配属決定（<a href="member.html">メンバーページ参照</a>）</div>
+
+<li class="sp1">2008年4月18日
+<div class="sp1"><a href="news/2008/shinkan.html">新メンバー歓迎会 </a></div>
+</ul>
+
+<a href="javascript:void(0)" id="category_2008" onclick="show('2008');" class="newsclose">close</a>
+</div>
+<br>
+<div style="height:20px">
+</div>         
+         
+<!--  2007.4 - 2008.3   -->
+<a href="javascript:void(0)" id="category_2007" onclick="show('2007');" class="newsbar">2007 年度のニュース</a>
+<div id="layer_2007" style="display:none;position:relative;border:solid 1px #c0c0c0;padding-left:20px;" class="close">
+
+<ul class="news">
+
+<div align="center"><img src="news/2007/2007Member.jpg" width="400" height="300"><br>
+2007.8 at ゼミ合宿<br><br>
+</div>
+
+<li class="sp1">2008年3月23日～3月26日
+<div class="sp1"><a href="news2007/JPS63.html">第63回日本物理学会  (近畿大学） </a></div>
+               
+<li class="n1">2008年3月23日
+<div class="sp1"><a href="news2007/gakuiki.html">'08 卒論発表優秀賞授賞式</a></div>
+　　　　　　 　
+<li class="sp1">2008年2月13日～2月14日
+<div class="sp1"><a href="news2007/syuron.html">修士論文発表会 </a></div>
+　　　　　　 　
+<li class="n1">2008年2月12日
+<div class="sp1"><a href="news2007/soturon.html">卒業論文発表会 </a></div>
+　　　　　　 　
+<li class="sp1">2007年9月21日～9月24日
+<div class="sp1">日本物理学会秋季大会 （北海道大学）</div>
+　　　　　　 　
+<li class="n1">2007年8月20日～8月24日
+<div class="sp1"><a href="news2007/SNS2007.html">SNS 2007 （宮城県　仙台）</a></div>
+　　　　　　 
+<li class="sp1">2007年8月11日～8月12日
+<div class="sp1">ゼミ旅行 （愛媛県　大三島）</div>
+
+<br>
+<img src="news2007/trip/top.jpg" hspace="100"  width="180" class="nob" alt="ゼミ旅行、論文紹介">
+             
+<li class="n1">2007年7月29日～8月6日
+<div class="sp1"><a href="news2007/VUVXV.html">VUVXV （ドイツ　ベルリン）</a></div>
+               
+<li class="sp1">2007年7月2～6日
+<div class="sp1">IVC-17（スウェーデン　ストックホルム）</a></div>
+               
+<li class="n1">2007年4月23～27日
+<div class="sp1"><a href="news2007/doresden.html">CORPES07 （ドイツ　ドレスデン）</a></div>
+
+</ul>
+           
+<a href="javascript:void(0)" id="category_2007" onclick="show('2007');" class="newsclose">close</a>
+</div>
+
+
+<br>
+<div style="height:20px">
+</div>
+
+
+<!-- 2006.4 - 2007.3 -->
+<a href="javascript:void(0)" id="category_2006" onclick="show('2006');" class="newsbar">2006 年度のニュース</a>
+<div id="layer_2006" style="display: none;position:relative;border:solid 1px #c0c0c0;padding-left:20px;" class="close">
+<ul class="news">           
+
+<div align="center"><img src="news2007/2006Member.jpg" width="400" height="300"><br>
+2006.8 at いろり山賊<br><br>
+</div>
+
+<li class="sp1">2007年3月18～21日
+<div class="sp1"><a href="news2007/nichibutu2007sp.html">日本物理学会春季大会 （鹿児島大学）</a></div>
+               
+<li class="n1">2007年3月7～8日
+<div class="sp1"><a href="news2007/hisorsympo.html">第11回広島放射光国際シンポジウム</a></div>
+               
+<li>2007年3月3日　
+<div class="sp1"><a href="news2007/chao.html">喬 山 教授送別会</a></div>
+               
+<li class="n1">2007年2月28日
+<div class="sp1">柳楽未来が第26回表面科学講演大会・講演奨励賞を受賞</div>
+               
+<li>2007年1月12～14日
+<div class="sp1"><a href="private/2007/gakkai0112.html">第20回日本放射光学会年会</a></div>
+               
+<li class="n1">2006年11月6日～9日
+<div class="sp1"><a href="private/2006/gakkai1106.html">第26回表面科学講演大会（大阪大学）</a></div>
+               
+<li>2006年10月9～13日
+<div class="sp1"><a href="private/2006/issp10.html">第10回物性研究所国際シンポジウム</a></div>
+               
+<li class="n1">2006年10月2日
+<div class="sp1"><a href="private/2006/newstudents.html">留学生2名、光物性研に加入</a></div>
+               
+<li>2006年9月23～26日
+               <div class="sp1"><a href="private/2006/gakkai.html" target="_blank">日本物理学会秋季大会</a></div>
+               
+<li class="n1">2006年9月13日
+<div class="sp1"><a href="private/2006/gakui.html" target="_blank">Doctor2名、博士学位論文公聴会</a></div>
+               
+<li>2006月9月4～8日
+<div class="sp1"><a href="private/2006/ecoss24.html" target="_blank">大学院生5名、ECOSS-24参加</a></div>
+               
+<a href="private/2006/ecoss24.html" target="_blank">
+<img src="photo/ecoss.jpg" width="180" class="nob" alt="ECOSS-24"><br>
+ECOSS-24(European Conference on Surface Science)がフランス･パリで開催され、院生5名参加。
+</a>
+             
+<li class="n1">2006年8月10,11日
+<div class="sp1"><a href="private/semi/semi2006.html" target="_blank">光物性研ゼミ合宿</a></div>
+               
+<div style="margin-left: 3em;">
+<a href="private/semi/semi2006.html" target="_blank">
+<img src="private/semi/photo/ryo2.jpg" width="180" class="nob" alt="ゼミ合宿、論文紹介">
+</a>
+<br>
+山口県周坊大島で1泊2日のゼミ合宿。
+<br>
+</div>
+</ul>
+           
+<a href="javascript:void(0)" id="category_2006" onclick="show('2006');" class="newsclose">close</a>
+           
+</div>
+         
+<div style="height:30px">
+</div>
+         
+<!-- 2005.4 - 2006.3 -->
+<a href="javascript:void(0)" id="category_2005" onclick="show('2005');" class="newsbar">2005 年度のニュース</a>
+<div id="layer_2005" style="display: none;position:relative;border:solid 1px #c0c0c0;padding-left:20px;" class="close">
+<ul class="news">
+<li>2006年3月
+<div class="sp1"><A HREF="news/1award_gradthesis2006.html">安斎太陽が卒業論文優秀賞を受賞</A></div>
+<div style="margin-left: 3em;">
+<A HREF="news/1award_gradthesis2006.html">
+<img src="news/award_anzai_s3.jpg" width="178" height="133" border="0"  alt="安斎太陽、受賞">
+</A><BR>
+卒業論文『内殻光電子分光による銅酸化物高温超伝導体の電子状態の研究』　安斎太陽（右端）<BR>
+</div>
+</ul>
+<a href="javascript:void(0)" id="category_2005" onclick="show('2005');" class="newsclose">close</a>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div class="bottom">
+	<a href="http://www.hiroshima-u.ac.jp/index-j.html">広島大学</a>
+	<a href="http://www.sci.hiroshima-u.ac.jp/index-jp.php">理学部・理学研究科</a>
+	<a href="http://home.hiroshima-u.ac.jp/scphys/">物理科学専攻</a><br><br>
+	Copyright(C) 広島大学 大学院理学研究科 物理科学専攻 光物性研究室
+<script type="text/javascript">
+
+   
+  </div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-6034912-1");
+pageTracker._trackPageview();
+</script>
+</body>
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=shift_jis">
+<meta http-equiv="Content-Style-Type" Content="text/css">
+<title>焼肉パーティー！！【光物性研究室ニュース】</title>
+
+<link rel="stylesheet"type="text/css"href="../../design2.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script language="JavaScript">
+<!--
+imgnum=2;
+images=new Array();
+for(i=0; i<imgnum; i++){
+images[i]=new Image();
+images[i].src="anime"+i+".gif";
+}
+function change(imgno){
+clearTimeout(timerID);
+if(imgno < images.length){
+document.anime.src=images[imgno].src;
+timerID=setTimeout("change("+(imgno+1)+")",500);
+}else{
+timerID=setTimeout("change(0)",500);
+}
+}
+//-->
+</script>
+</head>
+<body onLoad="timerID=setTimeout('change(0)',500)">
+<p class="head"><img src="../../title.jpg" width="500"></p>
+<p class="menu">
+<a href="../../top.html">トップページ</a>
+<a href="../../month.html">今月のニュース</a>
+<a href="../../premonth.html">過去のニュース</a>
+<a href="../../pmessage.html">お知らせ</a>
+<a href="../../plink.html">リンク</a>
+</p>
+<div class="contents">
+<a href="../../top.html">トップページ</a> > <a href="../../premonth.html">9月のニュース</a> > 焼肉パーティー
+<h2 class="a">焼肉パーティー</h2>
+ゼミ合宿で余った材料で焼肉をしました。<br>
+<br>
+<div class="center">
+<img src="yakiniku.jpg" alt="焼肉">
+<img src="anime1.gif" name="anime" alt="酒豪　西村良祐(左)とその仲間たち">
+</div>
+<p class="a">                    豚肉、海老、ホタテetc                                     　　　　　　 乾杯!!</p>
+<div class="bottom">
+Copyright(C)　<a href="http://home.hiroshima-u.ac.jp/srphys/people.html">Synchrotron-Radiation Solid-State Physics, Taniguchi Group</a>. All rights reserved.
+</div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+157.55.39.234 - - [19/Nov/2021:07:33:48 +0900] "GET /personal/k_kawanatsu/kawanatsu.html HTTP/1.0" 404 592 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+104.254.92.60 - - [19/Nov/2021:07:55:04 +0900] "GET /.git/config HTTP/1.0" 403 572 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+140.117.193.49 - - [19/Nov/2021:07:56:23 +0900] "GET /intro/group/STM/Ni111_STMARPES.jpg HTTP/1.0" 200 411 "https://tw.images.search.yahoo.com/search/images;_ylt=AwrtahOT2JZhdQwALj9r1gt.;_ylu=Y29sbwN0dzEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=stm+di+dv&fr2=piv-web&type=E210TW826G0&fr=mcafee" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+207.46.13.111 - - [19/Nov/2021:08:07:45 +0900] "GET /personal/k_nakanishi/nakanishi.html HTTP/1.0" 404 592 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+185.191.171.8 - - [19/Nov/2021:08:09:24 +0900] "GET /robots.txt HTTP/1.0" 404 567 "-" "Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)"
+185.191.171.39 - - [19/Nov/2021:08:09:25 +0900] "GET /en/index_en.html HTTP/1.0" 200 605 "-" "Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)"
+157.55.39.234 - - [19/Nov/2021:08:09:40 +0900] "GET /news/2021/20210215pomt.html HTTP/1.0" 404 584 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+207.46.13.203 - - [19/Nov/2021:08:13:26 +0900] "GET /personal/y_fukushima/fukushima.html HTTP/1.0" 404 592 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
