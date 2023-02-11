@@ -1,11 +1,10 @@
 <h3>Igor の動画作成方法 (waves 編) (2023.02.11. 更新)</h3>
 
-<h3>3D ファイルの作成</h3>
-<ul><li>Fil1: 2.52 A, Vol: 500 V, Emis: 15 mA, ~620 ℃ </li>
-<li>アニール中の Pressure が 10<super>-8</super> Pa 代になるまで放置する</li>
-<li>アニールを切ってから 30 分以上放置して室温になるまでよく冷ます</li></ul>
+<h3>1. FS マップした 3D ファイルの読み込み</h3>
+<ul>
+<li>ここの <a href = "https://hiroshimauniv-my.sharepoint.com/:u:/g/personal/kk224_hiroshima-u_ac_jp/Ecy6Y2i0YyVDv4cYU-agQNABM-TFXiPKofPfN2_cqrOyiw?e=ZzP0IS" target="_blank">ここ</a>から手に入れられます。</li></ul>
 
-<h3>(2) Fe 蒸着源の DEGAS 及び蒸着</h3>
+<h3>2. マクロをコンパイル</h3>
 <ul><li><span style="color: red; "><b>水を流していることをよく確認！！</b></span></li>
 <li><span style="color: red; "><b>蒸着していないときはシャッターを必ず閉める！！</b></span></li>
 <li><span style="color: red; "><b>MgO基板はちゃんとアースに落とす！！</b></span></li>
