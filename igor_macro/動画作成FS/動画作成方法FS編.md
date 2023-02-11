@@ -15,7 +15,7 @@
 
 <h3>3. 完成した動画</h3>
 <ul 
-<li>mp4 で出力される</li
+<li>mp4 で出力される</li>
 <li><a href = "https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/kk224_hiroshima-u_ac_jp/EW_wHPQqMtJFqS6kOauJFZoBfQ0iL2_-HXxPUbpF4caZHQ?e=gVxasr" target="_blank">例</a>を示す</li>
 </ul>
 
