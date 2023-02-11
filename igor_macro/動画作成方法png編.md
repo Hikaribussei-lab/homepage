@@ -1,19 +1,15 @@
-﻿<!DOCTYPE html><html>
-<body>
-<ul>
-<h1><b>ターゲット作成方法@Laser-SARPES</b></h1>
-<h3>2022.5.31. 更新</h3>
+<h3>Igor の動画作成方法 (waves 編) (2023.02.11. 更新)</h3>
 
-<h3>(1) MgO 基板のアニール (エレボン)</h3>
+<h3>3D ファイルの作成</h3>
 <ul><li>Fil1: 2.52 A, Vol: 500 V, Emis: 15 mA, ~620 ℃ </li>
 <li>アニール中の Pressure が 10<super>-8</super> Pa 代になるまで放置する</li>
 <li>アニールを切ってから 30 分以上放置して室温になるまでよく冷ます</li></ul>
 
 <h3>(2) Fe 蒸着源の DEGAS 及び蒸着</h3>
-<ul><li><font color="red"><b>水を流していることをよく確認！！</b></font></li>
-<li><font color="red"><b>蒸着していないときはシャッターを必ず閉める！！</b></font></li>
-<li><font color="red"><b>MgO基板はちゃんとアースに落とす！！</b></font></li>
-<li><font color="red"><b>DEGAS をしっかり！</b></font>（蒸着条件で 10^-8 Pa 代に入っていることが望ましい)</li>
+<ul><li><span style="color: red; "><b>水を流していることをよく確認！！</b></span></li>
+<li><span style="color: red; "><b>蒸着していないときはシャッターを必ず閉める！！</b></span></li>
+<li><span style="color: red; "><b>MgO基板はちゃんとアースに落とす！！</b></span></li>
+<li><span style="color: red; "><b>DEGAS をしっかり！</b></span>（蒸着条件で 10^-8 Pa 代に入っていることが望ましい)</li>
 <li><b>DEGAS 条件</b>: ~50 nA 程度の Flux で 2-3 分放置して真空度を確認→もし真空度が 10-8 Pa 代なら 0.5 nA にして 1 時間ぐらい放置して蒸着本番に備える。</li>
 <li><b>蒸着条件</b>：Fil: 1.96 A, Vol: 800 V, Emis: ~7mA, =>Flux: ~50 nA，これで 90 分蒸着 </li>
 <li>もし Emis や Flux が増えないのであれば，蒸着源を近づける</li>
@@ -40,11 +36,6 @@
 
 <h3>(6) LEED で p(1×1) を確認</h3>
 <ul>
-<img src="MgOFe.jpg" alt="p(1×1)の LEED 像@Ek=150eV" height="20%" width="20%">
 <li>もし c(2×2)が見えてしまったら，ターゲットとして使えないので基板を交換してやり直し</li>
 </ul>
-
-
-</ul>
-</body>
-</html>
+<img src="https://github.com/Hikaribussei-lab/homepage/blob/440db5b5bdc722eae09fbdac4a48a22bdc2a10c3/target/img/MgOFe.jpg" alt="サンマの塩焼き" height="40%" width="40%" />
