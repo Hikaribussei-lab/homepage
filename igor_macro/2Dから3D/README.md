@@ -1,5 +1,5 @@
 
-<h3>Igor の動画作成方法 (waves 編) (2023.02.11. 更新)</h3>
+<h3>Igor の 2D から 3D への変換 (2023.02.14. 更新)</h3>
 
 <h3>1. FS マップで取得した 2D ファイルの読み込み</h3>
 <ul>
@@ -8,15 +8,15 @@
 
 <h3>2. a2Dtoa3D.ipf を igor に入れてコンパイル</h3>
 <ul>
-<li>NewMovie コマンドを使用する。</li>
-<li>movie_vwv(vwv) (vwv は 3D FS マップのデータをフルパスで入れる)を実行。</li>
-<li>画像が出てきて，doUpdate, AddMovieFrame で一枚ごとフレームを取り込んでいく。</li>
-<li>NewMovie/Z/F=30 as NameOfWave(vwv) → フレームを変えたい場合は /F フラッグの値を変えればよい。</li>
-<li>CloseMovie で動画ファイル化。</li>
+<li>WaveList（フォルダー内にあるデータの文字列リストを作成）を使う。</li>
+<li>a2Dto3D() を実行。</li>
+<li>FS マップの角度を入力する。(-15 deg から 0.2 deg ステップ)</li>
 </ul>
 
-<h3>3. 完成した動画</h3>
+<h3>3. 3D データ</h3>
 <ul> 
-<li>mp4 で出力される</li>
+<li>vol という名前で生成される。</li>
+<li>vol という名前で生成される。</li>
+
 <li><a href = "https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/kk224_hiroshima-u_ac_jp/EW_wHPQqMtJFqS6kOauJFZoBfQ0iL2_-HXxPUbpF4caZHQ?e=gVxasr" target="_blank">例</a>を示す</li>
 </ul>
