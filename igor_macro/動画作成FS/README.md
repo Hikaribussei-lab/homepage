@@ -3,7 +3,7 @@
 
 <h3>1. FS マップした 3D ファイルの読み込み</h3>
 <ul>
-<li>ここの <a href = "https://hiroshimauniv-my.sharepoint.com/:u:/g/personal/kk224_hiroshima-u_ac_jp/Ecy6Y2i0YyVDv4cYU-agQNABM-TFXiPKofPfN2_cqrOyiw?e=ZzP0IS" target="_blank">ここ</a>から手に入れられます。</li></ul>
+<li><a href = "https://hiroshimauniv-my.sharepoint.com/:u:/g/personal/kk224_hiroshima-u_ac_jp/Ecy6Y2i0YyVDv4cYU-agQNABM-TFXiPKofPfN2_cqrOyiw?e=ZzP0IS" target="_blank">ここ</a>から手に入れられます。</li></ul>
 
 <h3>2. make_movie_fs.ipf を igor に入れてコンパイル</h3>
 <ul>
