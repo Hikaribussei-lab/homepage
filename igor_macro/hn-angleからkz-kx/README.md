@@ -11,7 +11,9 @@
 <li>1 で読み込んだ hn3Dデータに加えて, 各 hn の情報が入った 1D wave を用意する。</li>
 <li>例: 400 eV から 4eV ずつ増加して 800 eV まで (合計 101 点，hn3D データの z 軸の点数に一致させる)。</li>
 <li>kz_vol() を実行。</li>
-<li>hn3Dmap, EF の wave を選択して，内部ポテンシャルなどの変数を入力。</li>
+<li>hn3Dmap, EF の wave を選択.</li>
+<li>内部ポテンシャル (v), 仕事関数，kz の刻み間隔を入力。</li>
+<li>polar は, 表面ノーマルに対応する angle 位置 (例：6.15 deg)。</li>
 </ul>
 
 <h3>3. 完成した kz-kx 3Dmap</h3>
