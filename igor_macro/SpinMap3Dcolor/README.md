@@ -20,7 +20,7 @@
 <ul> 
 <li>matrgb => スピンマップの RGB ３次元データ(各 1,2, 3 layer はそれぞれ，R:赤，G:緑, B:青) </li>
 <li>color_table => スピンマップで使用し 3D カラーテーブル</li>
-<li><a href = "https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/kk224_hiroshima-u_ac_jp/EW_wHPQqMtJFqS6kOauJFZoBfQ0iL2_-HXxPUbpF4caZHQ?e=gVxasr" target="_blank">例</a>を示す</li>
+<img src="https://github.com/Hikaribussei-lab/homepage/blob/440db5b5bdc722eae09fbdac4a48a22bdc2a10c3/target/img/MgOFe.jpg" height="40%" width="40%" />
   
 </h3>
 </ul>
