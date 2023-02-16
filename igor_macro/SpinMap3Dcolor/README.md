@@ -20,7 +20,7 @@
 <ul> 
 <li>matrgb => スピンマップの RGB ３次元データ(各 1,2, 3 layer はそれぞれ，R:赤，G:緑, B:青) </li>
 <li>color_table => スピンマップで使用し 3D カラーテーブル</li>
-<img src="https://github.com/Hikaribussei-lab/homepage/blob/440db5b5bdc722eae09fbdac4a48a22bdc2a10c3/target/img/MgOFe.jpg" height="40%" width="40%" />
+<img src="https://github.com/Hikaribussei-lab/homepage/blob/8bfbfed4cb11402d08ee1f0f2f3430ed6a8cd631/igor_macro/SpinMap3Dcolor/SpinMap_3Dscale.jpg" height="50%" width="50%" />
   
 </h3>
 </ul>
