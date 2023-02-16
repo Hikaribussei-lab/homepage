@@ -8,8 +8,10 @@
 
 <h3>2.SpinMap_3Dcolor.ipf を igor に入れてコンパイル</h3>
 <ul>
-<li>SpinMap()=>main function。</li>
-<li>SpinMap()=>メイン関数。</li>
+<li>SpinMap()=>スピン分解からグラフ化まで動作する main function。</li>
+<li>color3D_test()=>3D color map の RGB データを作成。</li>
+<li>make_color3D_table()=>3D color table の RGB データを作成。</li>
+<li>make_color3D_table()=>3D color table の RGB データを作成。</li>
 <li>マッピングの角度情報，スピンチャンネル，シャーマン関数の値を入れる。</li>
 <li>1. の練習用データの場合は，-15 deg から 15 deg まで 0.5 deg ステップ, シャーマン関数 0.3 </li>
 </ul>
