@@ -6,7 +6,7 @@
 <li>練習用に Bi2Te3 の DAmapping データを用意しました。</li>
 <li><a href = "https://hiroshimauniv-my.sharepoint.com/:u:/g/personal/kk224_hiroshima-u_ac_jp/EQqBF1VpUotCtRTtvsuZyFYBQzJtYs0sZp752itqqr6zYw?e=Lea4zV" target="_blank">ここ</a>から手に入れられます。</li></ul>
 
-<h3>2. a2Dtoa3D.ipf を igor に入れてコンパイル</h3>
+<h3>2.****.ipf を igor に入れてコンパイル</h3>
 <ul>
 <li>WaveList（フォルダー内にあるデータの文字列リストを作成）を使う。</li>
 <li>a2Dto3D() を実行。</li>
