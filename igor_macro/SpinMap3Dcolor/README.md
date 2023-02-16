@@ -11,8 +11,8 @@
 <li>SpinMap()=>スピン分解からグラフ化まで動作する main function。</li>
 <li>color3D_test()=>3D color map の RGB データを作成。</li>
 <li>make_color3D_table()=>3D color table の RGB データを作成。</li>
-<li>make_color3D_table()=>3D color table の RGB データを作成。</li>
-<li>マッピングの角度情報，スピンチャンネル，シャーマン関数の値を入れる。</li>
+<li>color_map()=>3D カラーで表示した画像作成。</li>
+<li>実行方法：SpinMap()を実行して，マッピングの角度情報，スピンチャンネル，シャーマン関数の値を入れる。</li>
 <li>1. の練習用データの場合は，-15 deg から 15 deg まで 0.5 deg ステップ, シャーマン関数 0.3 </li>
 </ul>
 
