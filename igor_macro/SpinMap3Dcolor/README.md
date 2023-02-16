@@ -1,10 +1,10 @@
 
 <h3>Igor の SpinMap 作成と 3D color scale (2023.02.16. 更新)</h3>
 
-<h3>1. FS マップで取得した 2D ファイルの読み込み</h3>
+<h3>1. Spin マップで取得した 1D ファイルの読み込み</h3>
 <ul>
 <li>練習用に Bi2Te3 の DAmapping データを用意しました。</li>
-<li><a href = "https://hiroshimauniv-my.sharepoint.com/:u:/g/personal/kk224_hiroshima-u_ac_jp/EeDX6S0jrP9Fq0XxTMo-OxoBbRfsM56uVXczkvj_6gV9zA?e=KLwS1i" target="_blank">ここ</a>から手に入れられます。</li></ul>
+<li><a href = "[https://hiroshimauniv-my.sharepoint.com/:u:/g/personal/kk224_hiroshima-u_ac_jp/EeDX6S0jrP9Fq0XxTMo-OxoBbRfsM56uVXczkvj_6gV9zA?e=KLwS1i](https://hiroshimauniv-my.sharepoint.com/:u:/g/personal/kk224_hiroshima-u_ac_jp/EQqBF1VpUotCtRTtvsuZyFYBQzJtYs0sZp752itqqr6zYw?e=Lea4zV)" target="_blank">ここ</a>から手に入れられます。</li></ul>
 
 <h3>2. a2Dtoa3D.ipf を igor に入れてコンパイル</h3>
 <ul>
