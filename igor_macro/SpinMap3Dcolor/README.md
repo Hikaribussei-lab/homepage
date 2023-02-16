@@ -6,9 +6,10 @@
 <li>練習用に Bi2Te3 の DAmapping データを用意しました。</li>
 <li><a href = "https://hiroshimauniv-my.sharepoint.com/:u:/g/personal/kk224_hiroshima-u_ac_jp/EQqBF1VpUotCtRTtvsuZyFYBQzJtYs0sZp752itqqr6zYw?e=Lea4zV" target="_blank">ここ</a>から手に入れられます。</li></ul>
 
-<h3>2.****.ipf を igor に入れてコンパイル</h3>
+<h3>2.SpinMap_3Dcolor.ipf を igor に入れてコンパイル</h3>
 <ul>
-<li>SpinMap()を実行。</li>
+<li>SpinMap()=>main function。</li>
+<li>SpinMap()=>メイン関数。</li>
 <li>マッピングの角度情報，スピンチャンネル，シャーマン関数の値を入れる。</li>
 <li>1. の練習用データの場合は，-15 deg から 15 deg まで 0.5 deg ステップ, シャーマン関数 0.3 </li>
 </ul>
