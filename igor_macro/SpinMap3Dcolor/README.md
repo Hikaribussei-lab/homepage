@@ -21,6 +21,11 @@
 <li>matrgb => スピンマップの RGB ３次元データ(各 1,2, 3 layer はそれぞれ，R:赤，G:緑, B:青) </li>
 <li>color_table => スピンマップで使用し 3D カラーテーブル</li>
 <img src="https://github.com/Hikaribussei-lab/homepage/blob/8bfbfed4cb11402d08ee1f0f2f3430ed6a8cd631/igor_macro/SpinMap3Dcolor/SpinMap_3Dscale.jpg" height="50%" width="50%" />
-  
+ 
+ <h3>4. 表示のみの場合</h3>
+<ul> 
+<li>show_map() 関数を使う。</li>
+<li>引数には，twv → 強度マップ，spwv → スピン偏極マップ　sc → スケーリング (通常 sc =1 に設定する)</li>
+
 </h3>
 </ul>
