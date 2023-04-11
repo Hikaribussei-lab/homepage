@@ -164,8 +164,8 @@ Function color_map(image, ctable)
 	ModifyGraph manTick(bottom)={0,0.1,0,1},manMinor(bottom)={4,0}
 	Label left "\\Z12\\F'arial'DA theta x (deg)"
 	Label bottom "\\Z12\\F'arial'Kinetic energy (eV)"
-	SetAxis left -15.1,15.1
-	SetAxis bottom 0.9,1.31
+	//SetAxis left -15.1,15.1
+	//SetAxis bottom 0.9,1.31
 	ModifyGraph swapXY=1
 	RenameWindow #,G0
 	SetActiveSubwindow ##
@@ -182,3 +182,13 @@ Function color_map(image, ctable)
 	RenameWindow #,G1
 	SetActiveSubwindow ##
 EndMacro
+
+Function show_map(twv, spwv, sc)
+	Wave twv, spwv; Variable sc
+	//make spinMap in 3D color scale
+	Wave/D image=color3D_test(twv, spwv, sc)
+	//make 3D color table 
+	Wave/D ctable=make_3Dcolor_table(sc)
+	//show in graph
+	color_map(image, ctable) 
+End
